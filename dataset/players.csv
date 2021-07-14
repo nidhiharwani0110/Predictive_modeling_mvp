@@ -1,0 +1,2013 @@
+,season,team,player
+0,2018,Sunrisers Hyderabad,R Bhui
+1,2017,Gujarat Lions,Ishan Kishan
+2,2010,Kings XI Punjab,MS Bisla
+3,2009,Royal Challengers Bangalore,MK Pandey
+4,2013,Kings XI Punjab,BA Bhatt
+5,2015,Mumbai Indians,AT Rayudu
+6,2017,Delhi Daredevils,CJ Anderson
+7,2014,Mumbai Indians,AT Rayudu
+8,2014,Chennai Super Kings,BB McCullum
+9,2012,Mumbai Indians,AN Ahmed
+10,2009,Delhi Daredevils,DP Nannes
+11,2008,Rajasthan Royals,M Rawat
+12,2010,Kings XI Punjab,B Lee
+13,2013,Pune Warriors,TL Suman
+14,2014,Mumbai Indians,P Kumar
+15,2011,Rajasthan Royals,ND Doshi
+16,2009,Mumbai Indians,JP Duminy
+17,2013,Kings XI Punjab,R Sathish
+18,2018,Kolkata Knight Riders,KD Karthik
+19,2009,Royal Challengers Bangalore,R Dravid
+20,2016,Rising Pune Supergiants,Ankit Sharma
+21,2010,Rajasthan Royals,FY Fazal
+22,2018,Kolkata Knight Riders,CA Lynn
+23,2010,Kings XI Punjab,Yuvraj Singh
+24,2019,Rajasthan Royals,STR Binny
+25,2012,Pune Warriors,AP Majumdar
+26,2010,Royal Challengers Bangalore,A Mithun
+27,2018,Royal Challengers Bangalore,SN Khan
+28,2016,Sunrisers Hyderabad,BB Sran
+29,2013,Chennai Super Kings,R Ashwin
+30,2008,Kolkata Knight Riders,BAW Mendis
+31,2011,Pune Warriors,GC Smith
+32,2008,Kolkata Knight Riders,WP Saha
+33,2014,Chennai Super Kings,P Negi
+34,2013,Rajasthan Royals,GB Hogg
+35,2009,Royal Challengers Bangalore,A Mithun
+36,2008,Rajasthan Royals,MM Patel
+37,2018,Rajasthan Royals,AM Rahane
+38,2008,Rajasthan Royals,Kamran Akmal
+39,2017,Sunrisers Hyderabad,Bipul Sharma
+40,2008,Royal Challengers Bangalore,B Akhil
+41,2012,Mumbai Indians,KD Karthik
+42,2017,Gujarat Lions,JP Faulkner
+43,2011,Kings XI Punjab,VS Malik
+44,2013,Chennai Super Kings,JO Holder
+45,2008,Mumbai Indians,AM Nayar
+46,2019,Chennai Super Kings,KV Sharma
+47,2017,Kings XI Punjab,EJG Morgan
+48,2012,Royal Challengers Bangalore,TM Dilshan
+49,2017,Kings XI Punjab,MJ Guptill
+50,2008,Royal Challengers Bangalore,P Kumar
+51,2019,Kolkata Knight Riders,H Gurney
+52,2010,Rajasthan Royals,MM Patel
+53,2012,Pune Warriors,RV Uthappa
+54,2009,Royal Challengers Bangalore,R Bishnoi
+55,2019,Kolkata Knight Riders,RV Uthappa
+56,2017,Kolkata Knight Riders,IR Jaggi
+57,2013,Kolkata Knight Riders,BB McCullum
+58,2010,Mumbai Indians,DJ Bravo
+59,2010,Rajasthan Royals,SA Asnodkar
+60,2019,Mumbai Indians,M Markande
+61,2009,Royal Challengers Bangalore,B Akhil
+62,2010,Mumbai Indians,ST Jayasuriya
+63,2016,Mumbai Indians,N Rana
+64,2008,Kings XI Punjab,U Kaul
+65,2016,Rising Pune Supergiants,GJ Bailey
+66,2017,Delhi Daredevils,CH Morris
+67,2013,Royal Challengers Bangalore,KB Arun Karthik
+68,2015,Royal Challengers Bangalore,MS Bisla
+69,2008,Kolkata Knight Riders,Iqbal Abdulla
+70,2016,Gujarat Lions,JP Faulkner
+71,2014,Mumbai Indians,BR Dunk
+72,2015,Kolkata Knight Riders,GB Hogg
+73,2019,Delhi Capitals,S Rutherford
+74,2011,Kolkata Knight Riders,G Gambhir
+75,2017,Kolkata Knight Riders,UT Yadav
+76,2011,Kings XI Punjab,PP Chawla
+77,2012,Kings XI Punjab,N Saini
+78,2010,Delhi Daredevils,PJ Sangwan
+79,2009,Delhi Daredevils,TM Dilshan
+80,2011,Pune Warriors,JP Faulkner
+81,2014,Chennai Super Kings,A Nehra
+82,2010,Delhi Daredevils,VY Mahesh
+83,2012,Royal Challengers Bangalore,HV Patel
+84,2019,Rajasthan Royals,SPD Smith
+85,2017,Kings XI Punjab,I Sharma
+86,2008,Chennai Super Kings,MEK Hussey
+87,2011,Delhi Daredevils,DA Warner
+88,2013,Pune Warriors,MR Marsh
+89,2011,Rajasthan Royals,SK Trivedi
+90,2014,Delhi Daredevils,KM Jadhav
+91,2019,Mumbai Indians,SD Lad
+92,2008,Kolkata Knight Riders,M Kartik
+93,2014,Royal Challengers Bangalore,V Kohli
+94,2017,Kolkata Knight Riders,TA Boult
+95,2014,Rajasthan Royals,KW Richardson
+96,2011,Kings XI Punjab,AC Gilchrist
+97,2012,Kings XI Punjab,Gurkeerat Singh
+98,2016,Mumbai Indians,TG Southee
+99,2010,Rajasthan Royals,AJ Finch
+100,2012,Kings XI Punjab,RR Powar
+101,2013,Chennai Super Kings,CH Morris
+102,2010,Delhi Daredevils,KM Jadhav
+103,2015,Kings XI Punjab,MG Johnson
+104,2013,Delhi Daredevils,J Botha
+105,2017,Gujarat Lions,SS Agarwal
+106,2013,Kings XI Punjab,MG Neser
+107,2018,Kings XI Punjab,MP Stoinis
+108,2010,Kolkata Knight Riders,AB Dinda
+109,2015,Mumbai Indians,AP Tare
+110,2019,Chennai Super Kings,DL Chahar
+111,2009,Rajasthan Royals,M Rawat
+112,2012,Pune Warriors,AB Dinda
+113,2015,Royal Challengers Bangalore,AB Dinda
+114,2016,Kings XI Punjab,Swapnil Singh
+115,2008,Kings XI Punjab,VRV Singh
+116,2015,Rajasthan Royals,SR Watson
+117,2011,Kolkata Knight Riders,MS Bisla
+118,2008,Rajasthan Royals,RA Jadeja
+119,2019,Kolkata Knight Riders,N Rana
+120,2008,Royal Challengers Bangalore,J Arunkumar
+121,2014,Chennai Super Kings,IC Pandey
+122,2012,Mumbai Indians,RJ Peterson
+123,2016,Mumbai Indians,UBT Chand
+124,2012,Pune Warriors,AC Thomas
+125,2019,Sunrisers Hyderabad,WP Saha
+126,2012,Rajasthan Royals,Pankaj Singh
+127,2012,Kings XI Punjab,Harmeet Singh
+128,2010,Delhi Daredevils,G Gambhir
+129,2016,Gujarat Lions,DS Kulkarni
+130,2018,Chennai Super Kings,Imran Tahir
+131,2008,Rajasthan Royals,Niraj Patel
+132,2008,Kings XI Punjab,RR Powar
+133,2017,Mumbai Indians,R Vinay Kumar
+134,2015,Rajasthan Royals,AM Rahane
+135,2011,Delhi Daredevils,S Sriram
+136,2018,Sunrisers Hyderabad,S Kaul
+137,2011,Pune Warriors,SS Mundhe
+138,2013,Chennai Super Kings,M Vijay
+139,2016,Rising Pune Supergiants,F du Plessis
+140,2016,Gujarat Lions,Ishan Kishan
+141,2012,Pune Warriors,WD Parnell
+142,2017,Sunrisers Hyderabad,MC Henriques
+143,2012,Deccan Chargers,KC Sangakkara
+144,2019,Rajasthan Royals,L Livingstone
+145,2013,Kolkata Knight Riders,B Lee
+146,2016,Gujarat Lions,SB Jakati
+147,2019,Rajasthan Royals,A Turner
+148,2009,Kings XI Punjab,VRV Singh
+149,2012,Rajasthan Royals,AL Menaria
+150,2014,Chennai Super Kings,S Badree
+151,2010,Royal Challengers Bangalore,MK Pandey
+152,2013,Royal Challengers Bangalore,R Rampaul
+153,2014,Kolkata Knight Riders,AD Russell
+154,2012,Mumbai Indians,SL Malinga
+155,2018,Delhi Daredevils,Ankit Sharma
+156,2016,Kolkata Knight Riders,SA Yadav
+157,2013,Pune Warriors,Yuvraj Singh
+158,2013,Pune Warriors,LRPL Taylor
+159,2013,Sunrisers Hyderabad,Q de Kock
+160,2009,Delhi Daredevils,V Sehwag
+161,2010,Delhi Daredevils,UT Yadav
+162,2015,Royal Challengers Bangalore,DJG Sammy
+163,2013,Mumbai Indians,AT Rayudu
+164,2011,Royal Challengers Bangalore,CA Pujara
+165,2011,Kolkata Knight Riders,S Ladda
+166,2008,Royal Challengers Bangalore,S Chanderpaul
+167,2010,Kolkata Knight Riders,BB McCullum
+168,2018,Mumbai Indians,E Lewis
+169,2012,Royal Challengers Bangalore,P Parameswaran
+170,2015,Kings XI Punjab,BE Hendricks
+171,2018,Rajasthan Royals,DS Kulkarni
+172,2019,Kolkata Knight Riders,P Raj
+173,2011,Kolkata Knight Riders,SP Goswami
+174,2010,Royal Challengers Bangalore,ND Doshi
+175,2014,Royal Challengers Bangalore,Yuvraj Singh
+176,2017,Mumbai Indians,SL Malinga
+177,2009,Delhi Daredevils,MK Tiwary
+178,2012,Mumbai Indians,RG Sharma
+179,2018,Chennai Super Kings,SN Thakur
+180,2016,Delhi Daredevils,J Yadav
+181,2017,Mumbai Indians,TG Southee
+182,2018,Sunrisers Hyderabad,SP Goswami
+183,2013,Pune Warriors,UA Birla
+184,2013,Kolkata Knight Riders,S Ladda
+185,2018,Royal Challengers Bangalore,UT Yadav
+186,2014,Rajasthan Royals,DS Kulkarni
+187,2019,Chennai Super Kings,SN Thakur
+188,2018,Rajasthan Royals,S Gopal
+189,2008,Chennai Super Kings,P Amarnath
+190,2008,Deccan Chargers,Y Venugopal Rao
+191,2018,Royal Challengers Bangalore,PA Patel
+192,2018,Rajasthan Royals,Anureet Singh
+193,2017,Sunrisers Hyderabad,A Nehra
+194,2008,Delhi Daredevils,MF Maharoof
+195,2016,Kings XI Punjab,R Dhawan
+196,2016,Delhi Daredevils,CH Morris
+197,2008,Chennai Super Kings,S Vidyut
+198,2015,Royal Challengers Bangalore,D Wiese
+199,2017,Rising Pune Supergiant,DT Christian
+200,2011,Kochi Tuskers Kerala,RR Powar
+201,2016,Royal Challengers Bangalore,SR Watson
+202,2018,Sunrisers Hyderabad,K Ahmed
+203,2015,Kolkata Knight Riders,PP Chawla
+204,2014,Sunrisers Hyderabad,KV Sharma
+205,2014,Kings XI Punjab,BE Hendricks
+206,2016,Royal Challengers Bangalore,KL Rahul
+207,2017,Sunrisers Hyderabad,Mohammad Nabi
+208,2010,Royal Challengers Bangalore,B Akhil
+209,2012,Mumbai Indians,TL Suman
+210,2019,Sunrisers Hyderabad,Mohammad Nabi
+211,2010,Chennai Super Kings,JA Morkel
+212,2012,Rajasthan Royals,DH Yagnik
+213,2008,Chennai Super Kings,SK Raina
+214,2012,Delhi Daredevils,P Negi
+215,2015,Chennai Super Kings,MM Sharma
+216,2019,Delhi Capitals,K Paul
+217,2010,Deccan Chargers,A Symonds
+218,2015,Kings XI Punjab,AR Patel
+219,2015,Mumbai Indians,CJ Anderson
+220,2018,Delhi Daredevils,V Shankar
+221,2012,Rajasthan Royals,BJ Hodge
+222,2011,Kings XI Punjab,Mandeep Singh
+223,2015,Kolkata Knight Riders,UT Yadav
+224,2016,Sunrisers Hyderabad,B Kumar
+225,2013,Delhi Daredevils,AD Russell
+226,2013,Delhi Daredevils,UBT Chand
+227,2012,Mumbai Indians,DJ Jacobs
+228,2012,Deccan Chargers,CL White
+229,2017,Gujarat Lions,IK Pathan
+230,2009,Chennai Super Kings,MS Dhoni
+231,2019,Kings XI Punjab,Mohammed Shami
+232,2017,Mumbai Indians,JC Buttler
+233,2009,Kolkata Knight Riders,Mashrafe Mortaza
+234,2019,Royal Challengers Bangalore,AD Nath
+235,2011,Kochi Tuskers Kerala,B Akhil
+236,2008,Chennai Super Kings,MS Dhoni
+237,2012,Rajasthan Royals,SW Tait
+238,2018,Delhi Daredevils,L Plunkett
+239,2012,Rajasthan Royals,AM Rahane
+240,2009,Deccan Chargers,FH Edwards
+241,2019,Sunrisers Hyderabad,S Sharma
+242,2012,Rajasthan Royals,A Chandila
+243,2012,Pune Warriors,M Kartik
+244,2013,Kings XI Punjab,Mandeep Singh
+245,2014,Kolkata Knight Riders,RV Uthappa
+246,2013,Royal Challengers Bangalore,MA Agarwal
+247,2008,Mumbai Indians,RR Raje
+248,2009,Royal Challengers Bangalore,A Kumble
+249,2017,Gujarat Lions,DS Kulkarni
+250,2019,Mumbai Indians,HH Pandya
+251,2009,Rajasthan Royals,Niraj Patel
+252,2017,Delhi Daredevils,PJ Cummins
+253,2013,Chennai Super Kings,MS Dhoni
+254,2012,Pune Warriors,LJ Wright
+255,2015,Rajasthan Royals,R Bhatia
+256,2018,Kolkata Knight Riders,S Mavi
+257,2018,Rajasthan Royals,BA Stokes
+258,2011,Mumbai Indians,SL Malinga
+259,2012,Royal Challengers Bangalore,R Vinay Kumar
+260,2014,Mumbai Indians,K Santokie
+261,2017,Kings XI Punjab,MM Sharma
+262,2019,Kolkata Knight Riders,AD Russell
+263,2016,Royal Challengers Bangalore,YS Chahal
+264,2019,Mumbai Indians,SL Malinga
+265,2009,Royal Challengers Bangalore,DW Steyn
+266,2012,Kolkata Knight Riders,JD Unadkat
+267,2012,Kolkata Knight Riders,R Bhatia
+268,2013,Kings XI Punjab,Harmeet Singh
+269,2011,Pune Warriors,S Rana
+270,2018,Kings XI Punjab,R Ashwin
+271,2019,Royal Challengers Bangalore,Washington Sundar
+272,2015,Kings XI Punjab,NLTC Perera
+273,2012,Mumbai Indians,DR Smith
+274,2015,Sunrisers Hyderabad,B Kumar
+275,2016,Sunrisers Hyderabad,S Dhawan
+276,2010,Deccan Chargers,Jaskaran Singh
+277,2010,Royal Challengers Bangalore,V Kohli
+278,2012,Rajasthan Royals,J Botha
+279,2017,Kolkata Knight Riders,DM Bravo
+280,2009,Delhi Daredevils,DL Vettori
+281,2015,Royal Challengers Bangalore,AB de Villiers
+282,2019,Mumbai Indians,RG Sharma
+283,2013,Chennai Super Kings,WP Saha
+284,2008,Kings XI Punjab,TM Srivastava
+285,2018,Royal Challengers Bangalore,M Ashwin
+286,2015,Delhi Daredevils,JD Unadkat
+287,2008,Chennai Super Kings,JDP Oram
+288,2009,Kings XI Punjab,T Kohli
+289,2012,Kolkata Knight Riders,BB McCullum
+290,2011,Kolkata Knight Riders,BJ Haddin
+291,2012,Mumbai Indians,SR Tendulkar
+292,2015,Sunrisers Hyderabad,I Sharma
+293,2017,Gujarat Lions,MS Gony
+294,2008,Deccan Chargers,DB Ravi Teja
+295,2015,Royal Challengers Bangalore,KD Karthik
+296,2018,Mumbai Indians,MJ McClenaghan
+297,2012,Pune Warriors,MN Samuels
+298,2010,Kolkata Knight Riders,Mandeep Singh
+299,2012,Chennai Super Kings,R Ashwin
+300,2013,Mumbai Indians,SR Tendulkar
+301,2014,Sunrisers Hyderabad,Parvez Rasool
+302,2018,Mumbai Indians,AS Yadav
+303,2008,Royal Challengers Bangalore,AA Noffke
+304,2009,Chennai Super Kings,S Badrinath
+305,2018,Kings XI Punjab,KK Nair
+306,2019,Chennai Super Kings,RA Jadeja
+307,2015,Chennai Super Kings,P Negi
+308,2008,Rajasthan Royals,SK Trivedi
+309,2009,Delhi Daredevils,DA Warner
+310,2012,Royal Challengers Bangalore,CH Gayle
+311,2014,Royal Challengers Bangalore,PA Patel
+312,2019,Kolkata Knight Riders,Kuldeep Yadav
+313,2014,Royal Challengers Bangalore,AB de Villiers
+314,2013,Kings XI Punjab,RJ Harris
+315,2010,Deccan Chargers,VVS Laxman
+316,2017,Kings XI Punjab,T Natarajan
+317,2011,Delhi Daredevils,CA Ingram
+318,2018,Delhi Daredevils,CH Morris
+319,2017,Delhi Daredevils,SV Samson
+320,2016,Mumbai Indians,JJ Bumrah
+321,2008,Kings XI Punjab,SE Marsh
+322,2018,Royal Challengers Bangalore,Q de Kock
+323,2016,Delhi Daredevils,Q de Kock
+324,2014,Sunrisers Hyderabad,S Anirudha
+325,2011,Delhi Daredevils,IK Pathan
+326,2014,Kings XI Punjab,DA Miller
+327,2011,Kings XI Punjab,Sunny Singh
+328,2016,Royal Challengers Bangalore,S Aravind
+329,2018,Sunrisers Hyderabad,A Hales
+330,2009,Rajasthan Royals,T Henderson
+331,2009,Kolkata Knight Riders,CK Langeveldt
+332,2014,Kings XI Punjab,Shivam Sharma
+333,2010,Kings XI Punjab,KC Sangakkara
+334,2017,Royal Challengers Bangalore,S Aravind
+335,2012,Kings XI Punjab,P Kumar
+336,2009,Deccan Chargers,AA Bilakhia
+337,2008,Royal Challengers Bangalore,DT Patil
+338,2011,Kolkata Knight Riders,EJG Morgan
+339,2012,Rajasthan Royals,SR Watson
+340,2016,Rising Pune Supergiants,AB Dinda
+341,2018,Royal Challengers Bangalore,C de Grandhomme
+342,2008,Royal Challengers Bangalore,LRPL Taylor
+343,2013,Delhi Daredevils,V Sehwag
+344,2013,Mumbai Indians,SL Malinga
+345,2017,Rising Pune Supergiant,JD Unadkat
+346,2013,Pune Warriors,SPD Smith
+347,2012,Deccan Chargers,PA Reddy
+348,2019,Mumbai Indians,E Lewis
+349,2013,Chennai Super Kings,SK Raina
+350,2016,Gujarat Lions,PJ Sangwan
+351,2010,Deccan Chargers,PP Ojha
+352,2012,Rajasthan Royals,STR Binny
+353,2016,Royal Challengers Bangalore,TM Head
+354,2010,Rajasthan Royals,AC Voges
+355,2018,Mumbai Indians,Mustafizur Rahman
+356,2013,Kolkata Knight Riders,G Gambhir
+357,2013,Kolkata Knight Riders,MS Bisla
+358,2015,Kolkata Knight Riders,RN ten Doeschate
+359,2016,Rising Pune Supergiants,JA Morkel
+360,2009,Chennai Super Kings,T Thushara
+361,2017,Delhi Daredevils,KK Nair
+362,2017,Royal Challengers Bangalore,TM Head
+363,2012,Kings XI Punjab,SE Marsh
+364,2010,Deccan Chargers,AA Bilakhia
+365,2019,Sunrisers Hyderabad,V Shankar
+366,2010,Chennai Super Kings,MS Gony
+367,2019,Kings XI Punjab,Mandeep Singh
+368,2012,Kolkata Knight Riders,Shakib Al Hasan
+369,2014,Mumbai Indians,S Gopal
+370,2018,Rajasthan Royals,B Laughlin
+371,2013,Royal Challengers Bangalore,JD Unadkat
+372,2015,Kolkata Knight Riders,J Botha
+373,2015,Sunrisers Hyderabad,KS Williamson
+374,2017,Rising Pune Supergiant,LH Ferguson
+375,2011,Pune Warriors,Kamran Khan
+376,2019,Kings XI Punjab,S Singh
+377,2017,Gujarat Lions,NB Singh
+378,2012,Kolkata Knight Riders,B Lee
+379,2015,Delhi Daredevils,CM Gautam
+380,2013,Pune Warriors,AD Mathews
+381,2012,Mumbai Indians,DS Kulkarni
+382,2016,Delhi Daredevils,P Negi
+383,2018,Delhi Daredevils,RR Pant
+384,2010,Rajasthan Royals,AD Mascarenhas
+385,2012,Pune Warriors,A Nehra
+386,2013,Delhi Daredevils,UT Yadav
+387,2013,Kolkata Knight Riders,Mohammed Shami
+388,2014,Delhi Daredevils,Q de Kock
+389,2017,Kolkata Knight Riders,SA Yadav
+390,2019,Chennai Super Kings,Imran Tahir
+391,2017,Sunrisers Hyderabad,BCJ Cutting
+392,2010,Chennai Super Kings,C Ganapathy
+393,2017,Sunrisers Hyderabad,Rashid Khan
+394,2018,Sunrisers Hyderabad,DJ Hooda
+395,2014,Kolkata Knight Riders,M Morkel
+396,2011,Kings XI Punjab,NJ Rimmington
+397,2012,Kolkata Knight Riders,L Balaji
+398,2018,Royal Challengers Bangalore,P Negi
+399,2011,Royal Challengers Bangalore,AUK Pathan
+400,2011,Rajasthan Royals,LRPL Taylor
+401,2016,Rising Pune Supergiants,I Sharma
+402,2018,Royal Challengers Bangalore,M Ali
+403,2013,Delhi Daredevils,KM Jadhav
+404,2017,Sunrisers Hyderabad,CJ Jordan
+405,2014,Kolkata Knight Riders,JH Kallis
+406,2016,Royal Challengers Bangalore,CH Gayle
+407,2011,Mumbai Indians,SR Tendulkar
+408,2019,Kolkata Knight Riders,KC Cariappa
+409,2015,Delhi Daredevils,GS Sandhu
+410,2015,Sunrisers Hyderabad,MC Henriques
+411,2012,Kolkata Knight Riders,MK Tiwary
+412,2016,Gujarat Lions,P Kumar
+413,2012,Pune Warriors,R Sharma
+414,2015,Sunrisers Hyderabad,TA Boult
+415,2013,Mumbai Indians,YS Chahal
+416,2017,Kings XI Punjab,MP Stoinis
+417,2008,Royal Challengers Bangalore,SP Goswami
+418,2008,Royal Challengers Bangalore,B Chipli
+419,2012,Chennai Super Kings,DE Bollinger
+420,2010,Royal Challengers Bangalore,CL White
+421,2018,Delhi Daredevils,R Tewatia
+422,2010,Rajasthan Royals,GC Smith
+423,2017,Rising Pune Supergiant,SN Thakur
+424,2016,Mumbai Indians,PA Patel
+425,2012,Royal Challengers Bangalore,S Aravind
+426,2011,Kings XI Punjab,BA Bhatt
+427,2017,Kolkata Knight Riders,SP Narine
+428,2018,Delhi Daredevils,Mohammed Shami
+429,2012,Pune Warriors,AD Mathews
+430,2015,Chennai Super Kings,DJ Bravo
+431,2016,Sunrisers Hyderabad,NV Ojha
+432,2008,Kolkata Knight Riders,T Taibu
+433,2018,Kolkata Knight Riders,Kuldeep Yadav
+434,2013,Kolkata Knight Riders,DB Das
+435,2019,Chennai Super Kings,M Vijay
+436,2011,Kings XI Punjab,P Kumar
+437,2011,Royal Challengers Bangalore,SS Tiwary
+438,2019,Royal Challengers Bangalore,AB de Villiers
+439,2008,Mumbai Indians,SD Chitnis
+440,2008,Deccan Chargers,AC Gilchrist
+441,2017,Gujarat Lions,P Kumar
+442,2013,Sunrisers Hyderabad,Ankit Sharma
+443,2009,Delhi Daredevils,PJ Sangwan
+444,2010,Kings XI Punjab,M Kaif
+445,2009,Mumbai Indians,L Ronchi
+446,2019,Rajasthan Royals,I Sodhi
+447,2015,Delhi Daredevils,A Mishra
+448,2017,Mumbai Indians,Harbhajan Singh
+449,2008,Kings XI Punjab,Yuvraj Singh
+450,2011,Royal Challengers Bangalore,LA Pomersbach
+451,2011,Kochi Tuskers Kerala,OA Shah
+452,2012,Delhi Daredevils,LRPL Taylor
+453,2012,Deccan Chargers,A Ashish Reddy
+454,2012,Deccan Chargers,V Pratap Singh
+455,2013,Delhi Daredevils,P Negi
+456,2016,Delhi Daredevils,A Mishra
+457,2016,Kings XI Punjab,SE Marsh
+458,2016,Mumbai Indians,RG Sharma
+459,2017,Royal Challengers Bangalore,Iqbal Abdulla
+460,2018,Delhi Daredevils,J Dala
+461,2011,Rajasthan Royals,SW Tait
+462,2008,Rajasthan Royals,D Salunkhe
+463,2012,Kings XI Punjab,JP Faulkner
+464,2012,Deccan Chargers,A Mishra
+465,2018,Delhi Daredevils,P Shaw
+466,2016,Kings XI Punjab,MG Johnson
+467,2012,Pune Warriors,MJ Clarke
+468,2011,Deccan Chargers,IR Jaggi
+469,2017,Kolkata Knight Riders,NM Coulter-Nile
+470,2016,Delhi Daredevils,CR Brathwaite
+471,2009,Deccan Chargers,SB Styris
+472,2015,Mumbai Indians,PP Ojha
+473,2016,Rising Pune Supergiants,R Ashwin
+474,2018,Royal Challengers Bangalore,TG Southee
+475,2011,Royal Challengers Bangalore,DL Vettori
+476,2009,Mumbai Indians,YV Takawale
+477,2017,Gujarat Lions,AD Nath
+478,2015,Kings XI Punjab,DA Miller
+479,2018,Chennai Super Kings,SR Watson
+480,2014,Royal Challengers Bangalore,CH Gayle
+481,2010,Rajasthan Royals,AG Paunikar
+482,2013,Delhi Daredevils,IK Pathan
+483,2014,Delhi Daredevils,JP Duminy
+484,2017,Sunrisers Hyderabad,NV Ojha
+485,2014,Mumbai Indians,P Suyal
+486,2009,Mumbai Indians,SS Tiwary
+487,2016,Rising Pune Supergiants,M Ashwin
+488,2013,Pune Warriors,AG Murtaza
+489,2009,Royal Challengers Bangalore,KP Appanna
+490,2013,Kolkata Knight Riders,SMSM Senanayake
+491,2016,Rising Pune Supergiants,DL Chahar
+492,2012,Mumbai Indians,AT Rayudu
+493,2010,Kolkata Knight Riders,MB Parmar
+494,2019,Royal Challengers Bangalore,DW Steyn
+495,2011,Mumbai Indians,AT Rayudu
+496,2018,Mumbai Indians,KA Pollard
+497,2013,Delhi Daredevils,DA Warner
+498,2008,Mumbai Indians,A Nehra
+499,2015,Sunrisers Hyderabad,Parvez Rasool
+500,2009,Kings XI Punjab,SM Katich
+501,2016,Kolkata Knight Riders,JD Unadkat
+502,2019,Kolkata Knight Riders,SP Narine
+503,2010,Mumbai Indians,SS Tiwary
+504,2011,Deccan Chargers,CL White
+505,2016,Kings XI Punjab,MM Sharma
+506,2009,Royal Challengers Bangalore,R Vinay Kumar
+507,2019,Kings XI Punjab,N Pooran
+508,2017,Delhi Daredevils,RR Pant
+509,2014,Kings XI Punjab,M Kartik
+510,2016,Royal Challengers Bangalore,HV Patel
+511,2011,Kolkata Knight Riders,JD Unadkat
+512,2019,Royal Challengers Bangalore,V Kohli
+513,2010,Deccan Chargers,Y Venugopal Rao
+514,2010,Chennai Super Kings,GJ Bailey
+515,2011,Rajasthan Royals,AL Menaria
+516,2016,Sunrisers Hyderabad,A Nehra
+517,2015,Rajasthan Royals,TG Southee
+518,2012,Pune Warriors,MD Mishra
+519,2008,Royal Challengers Bangalore,MV Boucher
+520,2012,Royal Challengers Bangalore,Z Khan
+521,2014,Kings XI Punjab,AR Patel
+522,2016,Kings XI Punjab,Gurkeerat Singh
+523,2011,Delhi Daredevils,UT Yadav
+524,2015,Delhi Daredevils,S Nadeem
+525,2009,Chennai Super Kings,R Ashwin
+526,2009,Kings XI Punjab,YA Abdulla
+527,2013,Chennai Super Kings,JA Morkel
+528,2013,Kings XI Punjab,Azhar Mahmood
+529,2015,Kolkata Knight Riders,Azhar Mahmood
+530,2008,Chennai Super Kings,MS Gony
+531,2019,Chennai Super Kings,SK Raina
+532,2012,Deccan Chargers,S Dhawan
+533,2014,Kings XI Punjab,GJ Bailey
+534,2016,Royal Challengers Bangalore,STR Binny
+535,2012,Royal Challengers Bangalore,AUK Pathan
+536,2017,Rising Pune Supergiant,Ankit Sharma
+537,2009,Mumbai Indians,SR Tendulkar
+538,2008,Royal Challengers Bangalore,Misbah-ul-Haq
+539,2008,Kings XI Punjab,SM Katich
+540,2019,Kings XI Punjab,R Ashwin
+541,2016,Kolkata Knight Riders,JO Holder
+542,2019,Kings XI Punjab,KK Nair
+543,2011,Rajasthan Royals,AG Paunikar
+544,2010,Deccan Chargers,HH Gibbs
+545,2010,Deccan Chargers,MD Mishra
+546,2017,Rising Pune Supergiant,BA Stokes
+547,2008,Mumbai Indians,DS Kulkarni
+548,2012,Deccan Chargers,Anand Rajan
+549,2010,Rajasthan Royals,SK Trivedi
+550,2011,Rajasthan Royals,FY Fazal
+551,2019,Royal Challengers Bangalore,PA Patel
+552,2008,Kolkata Knight Riders,DB Das
+553,2016,Kings XI Punjab,HM Amla
+554,2017,Delhi Daredevils,K Rabada
+555,2011,Pune Warriors,SC Ganguly
+556,2014,Rajasthan Royals,KK Nair
+557,2010,Rajasthan Royals,AP Dole
+558,2012,Deccan Chargers,B Chipli
+559,2010,Kolkata Knight Riders,RS Gavaskar
+560,2019,Sunrisers Hyderabad,Rashid Khan
+561,2017,Rising Pune Supergiant,A Zampa
+562,2009,Deccan Chargers,RP Singh
+563,2016,Mumbai Indians,J Suchith
+564,2016,Sunrisers Hyderabad,Mustafizur Rahman
+565,2010,Kings XI Punjab,J Theron
+566,2013,Kings XI Punjab,AD Mascarenhas
+567,2014,Kolkata Knight Riders,RN ten Doeschate
+568,2018,Delhi Daredevils,A Mishra
+569,2019,Delhi Capitals,C Munro
+570,2015,Royal Challengers Bangalore,VR Aaron
+571,2019,Chennai Super Kings,DJ Bravo
+572,2008,Delhi Daredevils,A Mishra
+573,2019,Sunrisers Hyderabad,YK Pathan
+574,2013,Sunrisers Hyderabad,I Sharma
+575,2010,Kings XI Punjab,VRV Singh
+576,2012,Delhi Daredevils,AD Russell
+577,2017,Kolkata Knight Riders,Shakib Al Hasan
+578,2010,Chennai Super Kings,S Anirudha
+579,2015,Rajasthan Royals,STR Binny
+580,2014,Rajasthan Royals,R Bhatia
+581,2016,Delhi Daredevils,Z Khan
+582,2019,Rajasthan Royals,AM Rahane
+583,2009,Kolkata Knight Riders,SS Shaikh
+584,2019,Kings XI Punjab,H Viljoen
+585,2012,Mumbai Indians,KA Pollard
+586,2018,Delhi Daredevils,DT Christian
+587,2013,Mumbai Indians,RG Sharma
+588,2018,Delhi Daredevils,S Lamichhane
+589,2011,Chennai Super Kings,S Badrinath
+590,2016,Royal Challengers Bangalore,VR Aaron
+591,2016,Gujarat Lions,RA Jadeja
+592,2019,Royal Challengers Bangalore,MP Stoinis
+593,2012,Delhi Daredevils,AJ Finch
+594,2013,Pune Warriors,RV Uthappa
+595,2010,Delhi Daredevils,R Bhatia
+596,2009,Royal Challengers Bangalore,JH Kallis
+597,2015,Rajasthan Royals,KK Nair
+598,2009,Kings XI Punjab,K Goel
+599,2010,Delhi Daredevils,TM Dilshan
+600,2012,Royal Challengers Bangalore,J Syed Mohammad
+601,2009,Kolkata Knight Riders,CH Gayle
+602,2014,Royal Challengers Bangalore,YS Chahal
+603,2014,Rajasthan Royals,TG Southee
+604,2019,Rajasthan Royals,BA Stokes
+605,2017,Sunrisers Hyderabad,KS Williamson
+606,2013,Royal Challengers Bangalore,M Muralitharan
+607,2009,Mumbai Indians,RA Shaikh
+608,2019,Delhi Capitals,C Ingram
+609,2017,Mumbai Indians,SS Tiwary
+610,2013,Kolkata Knight Riders,EJG Morgan
+611,2008,Delhi Daredevils,V Sehwag
+612,2014,Mumbai Indians,M de Lange
+613,2010,Kolkata Knight Riders,BAW Mendis
+614,2019,Mumbai Indians,Yuvraj Singh
+615,2008,Rajasthan Royals,GC Smith
+616,2016,Kolkata Knight Riders,MK Pandey
+617,2012,Deccan Chargers,J Theron
+618,2013,Sunrisers Hyderabad,A Ashish Reddy
+619,2017,Kolkata Knight Riders,G Gambhir
+620,2018,Mumbai Indians,JP Duminy
+621,2013,Mumbai Indians,PP Ojha
+622,2011,Royal Challengers Bangalore,TM Dilshan
+623,2016,Kings XI Punjab,M Vohra
+624,2011,Royal Challengers Bangalore,J Syed Mohammad
+625,2011,Delhi Daredevils,UBT Chand
+626,2009,Chennai Super Kings,MS Gony
+627,2017,Kolkata Knight Riders,PP Chawla
+628,2010,Kings XI Punjab,VS Malik
+629,2016,Royal Challengers Bangalore,KM Jadhav
+630,2012,Kolkata Knight Riders,LR Shukla
+631,2011,Mumbai Indians,DS Kulkarni
+632,2015,Kings XI Punjab,M Vijay
+633,2018,Rajasthan Royals,Ankit Sharma
+634,2008,Mumbai Indians,YV Takawale
+635,2019,Rajasthan Royals,SV Samson
+636,2017,Mumbai Indians,MJ McClenaghan
+637,2010,Royal Challengers Bangalore,R Vinay Kumar
+638,2011,Pune Warriors,Harpreet Singh
+639,2017,Royal Challengers Bangalore,YS Chahal
+640,2013,Kings XI Punjab,PC Valthaty
+641,2016,Mumbai Indians,Harbhajan Singh
+642,2015,Mumbai Indians,S Gopal
+643,2012,Chennai Super Kings,WP Saha
+644,2008,Chennai Super Kings,S Badrinath
+645,2016,Kings XI Punjab,KC Cariappa
+646,2017,Royal Challengers Bangalore,STR Binny
+647,2018,Chennai Super Kings,AT Rayudu
+648,2011,Mumbai Indians,AG Murtaza
+649,2013,Kings XI Punjab,SE Marsh
+650,2019,Royal Challengers Bangalore,N Saini
+651,2018,Chennai Super Kings,KM Asif
+652,2015,Rajasthan Royals,DS Kulkarni
+653,2009,Kings XI Punjab,LA Pomersbach
+654,2015,Chennai Super Kings,BB McCullum
+655,2013,Royal Challengers Bangalore,AB de Villiers
+656,2012,Kolkata Knight Riders,PJ Sangwan
+657,2011,Kings XI Punjab,AM Nayar
+658,2017,Kolkata Knight Riders,AS Rajpoot
+659,2014,Delhi Daredevils,MA Agarwal
+660,2008,Kings XI Punjab,JR Hopes
+661,2010,Rajasthan Royals,SK Warne
+662,2011,Pune Warriors,M Kartik
+663,2012,Delhi Daredevils,NV Ojha
+664,2008,Deccan Chargers,DP Vijaykumar
+665,2018,Mumbai Indians,A Dananjaya
+666,2010,Deccan Chargers,WPUJC Vaas
+667,2011,Royal Challengers Bangalore,Z Khan
+668,2019,Kolkata Knight Riders,CR Brathwaite
+669,2012,Delhi Daredevils,V Sehwag
+670,2018,Kings XI Punjab,AJ Finch
+671,2012,Kings XI Punjab,AC Gilchrist
+672,2015,Kolkata Knight Riders,PJ Cummins
+673,2019,Kolkata Knight Riders,KD Karthik
+674,2019,Chennai Super Kings,D Shorey
+675,2017,Royal Challengers Bangalore,Sachin Baby
+676,2015,Kolkata Knight Riders,Shakib Al Hasan
+677,2016,Rising Pune Supergiants,SS Tiwary
+678,2012,Chennai Super Kings,MEK Hussey
+679,2012,Delhi Daredevils,UT Yadav
+680,2015,Sunrisers Hyderabad,A Ashish Reddy
+681,2014,Rajasthan Royals,R Tewatia
+682,2017,Gujarat Lions,JJ Roy
+683,2013,Kings XI Punjab,Gurkeerat Singh
+684,2019,Mumbai Indians,BB Sran
+685,2009,Rajasthan Royals,RA Jadeja
+686,2018,Chennai Super Kings,MS Dhoni
+687,2008,Delhi Daredevils,KD Karthik
+688,2011,Rajasthan Royals,DH Yagnik
+689,2008,Kings XI Punjab,LA Pomersbach
+690,2012,Delhi Daredevils,DAJ Bracewell
+691,2015,Kolkata Knight Riders,KC Cariappa
+692,2016,Rising Pune Supergiants,PSP Handscomb
+693,2019,Kings XI Punjab,H Brar
+694,2012,Deccan Chargers,AA Jhunjhunwala
+695,2008,Mumbai Indians,RV Uthappa
+696,2009,Chennai Super Kings,SB Jakati
+697,2009,Deccan Chargers,TL Suman
+698,2008,Kings XI Punjab,B Lee
+699,2014,Kolkata Knight Riders,R Vinay Kumar
+700,2011,Rajasthan Royals,R Dravid
+701,2013,Royal Challengers Bangalore,AB McDonald
+702,2011,Chennai Super Kings,MS Dhoni
+703,2012,Delhi Daredevils,RE van der Merwe
+704,2013,Delhi Daredevils,S Nadeem
+705,2019,Delhi Capitals,Avesh Khan
+706,2012,Delhi Daredevils,DA Warner
+707,2015,Rajasthan Royals,BB Sran
+708,2013,Royal Challengers Bangalore,M Kartik
+709,2019,Mumbai Indians,MJ McClenaghan
+710,2011,Deccan Chargers,I Malhotra
+711,2008,Kolkata Knight Riders,BB McCullum
+712,2012,Kolkata Knight Riders,G Gambhir
+713,2018,Sunrisers Hyderabad,S Dhawan
+714,2016,Sunrisers Hyderabad,TA Boult
+715,2013,Mumbai Indians,RT Ponting
+716,2014,Delhi Daredevils,MK Tiwary
+717,2013,Mumbai Indians,JJ Bumrah
+718,2012,Mumbai Indians,JEC Franklin
+719,2014,Sunrisers Hyderabad,DW Steyn
+720,2015,Kolkata Knight Riders,MK Pandey
+721,2019,Delhi Capitals,S Lamichhane
+722,2011,Kings XI Punjab,SJ Srivastava
+723,2012,Royal Challengers Bangalore,AB McDonald
+724,2011,Rajasthan Royals,AM Rahane
+725,2011,Chennai Super Kings,R Ashwin
+726,2016,Gujarat Lions,KD Karthik
+727,2010,Chennai Super Kings,SB Jakati
+728,2018,Chennai Super Kings,Harbhajan Singh
+729,2012,Royal Challengers Bangalore,DL Vettori
+730,2008,Deccan Chargers,WPUJC Vaas
+731,2013,Sunrisers Hyderabad,A Mishra
+732,2018,Kings XI Punjab,AD Nath
+733,2009,Kolkata Knight Riders,BJ Hodge
+734,2015,Sunrisers Hyderabad,DA Warner
+735,2011,Kolkata Knight Riders,LR Shukla
+736,2010,Chennai Super Kings,S Badrinath
+737,2009,Rajasthan Royals,SK Warne
+738,2011,Royal Challengers Bangalore,AA Kazi
+739,2011,Chennai Super Kings,WP Saha
+740,2009,Rajasthan Royals,LA Carseldine
+741,2018,Kings XI Punjab,CH Gayle
+742,2017,Gujarat Lions,Basil Thampi
+743,2019,Kolkata Knight Riders,S Warrier
+744,2009,Kolkata Knight Riders,AB Agarkar
+745,2013,Rajasthan Royals,SR Watson
+746,2019,Royal Challengers Bangalore,M Ali
+747,2010,Kolkata Knight Riders,I Sharma
+748,2010,Mumbai Indians,KA Pollard
+749,2019,Sunrisers Hyderabad,Basil Thampi
+750,2015,Mumbai Indians,SL Malinga
+751,2016,Delhi Daredevils,RR Pant
+752,2010,Delhi Daredevils,AB McDonald
+753,2009,Chennai Super Kings,L Balaji
+754,2016,Gujarat Lions,ER Dwivedi
+755,2011,Kochi Tuskers Kerala,M Muralitharan
+756,2013,Pune Warriors,B Kumar
+757,2013,Delhi Daredevils,BJ Rohrer
+758,2016,Mumbai Indians,AT Rayudu
+759,2016,Delhi Daredevils,SW Billings
+760,2013,Delhi Daredevils,NV Ojha
+761,2009,Kolkata Knight Riders,WP Saha
+762,2009,Chennai Super Kings,SK Raina
+763,2010,Mumbai Indians,JP Duminy
+764,2008,Mumbai Indians,AM Rahane
+765,2016,Delhi Daredevils,S Nadeem
+766,2017,Royal Challengers Bangalore,CH Gayle
+767,2018,Chennai Super Kings,SK Raina
+768,2008,Rajasthan Royals,SA Asnodkar
+769,2018,Kolkata Knight Riders,S Gill
+770,2011,Pune Warriors,AA Jhunjhunwala
+771,2016,Kolkata Knight Riders,JW Hastings
+772,2011,Chennai Super Kings,SK Raina
+773,2011,Delhi Daredevils,AB Agarkar
+774,2010,Delhi Daredevils,PD Collingwood
+775,2016,Delhi Daredevils,Mohammed Shami
+776,2010,Delhi Daredevils,AB de Villiers
+777,2008,Kings XI Punjab,KC Sangakkara
+778,2019,Delhi Capitals,S Dhawan
+779,2009,Mumbai Indians,RR Raje
+780,2017,Mumbai Indians,LMP Simmons
+781,2009,Kings XI Punjab,PP Chawla
+782,2018,Kings XI Punjab,KL Rahul
+783,2019,Mumbai Indians,RD Chahar
+784,2013,Mumbai Indians,R Dhawan
+785,2008,Royal Challengers Bangalore,W Jaffer
+786,2014,Mumbai Indians,Z Khan
+787,2010,Rajasthan Royals,NV Ojha
+788,2019,Rajasthan Royals,O Thomas
+789,2018,Rajasthan Royals,JC Buttler
+790,2016,Kings XI Punjab,Anureet Singh
+791,2010,Deccan Chargers,MR Marsh
+792,2015,Delhi Daredevils,JA Morkel
+793,2017,Kolkata Knight Riders,C de Grandhomme
+794,2018,Kolkata Knight Riders,N Rana
+795,2016,Kings XI Punjab,NS Naik
+796,2015,Kings XI Punjab,Shivam Sharma
+797,2010,Kings XI Punjab,PP Chawla
+798,2009,Mumbai Indians,GR Napier
+799,2012,Deccan Chargers,PA Patel
+800,2018,Royal Challengers Bangalore,Mohammed Siraj
+801,2019,Mumbai Indians,A Joseph
+802,2013,Sunrisers Hyderabad,Anand Rajan
+803,2019,Kings XI Punjab,SN Khan
+804,2011,Chennai Super Kings,TG Southee
+805,2012,Chennai Super Kings,SK Raina
+806,2011,Pune Warriors,CJ Ferguson
+807,2013,Royal Challengers Bangalore,J Syed Mohammad
+808,2012,Chennai Super Kings,BW Hilfenhaus
+809,2009,Kolkata Knight Riders,SC Ganguly
+810,2008,Deccan Chargers,Shahid Afridi
+811,2015,Sunrisers Hyderabad,KL Rahul
+812,2015,Chennai Super Kings,MS Dhoni
+813,2015,Royal Challengers Bangalore,SA Abbott
+814,2008,Royal Challengers Bangalore,Abdur Razzak
+815,2015,Delhi Daredevils,Z Khan
+816,2015,Kings XI Punjab,R Dhawan
+817,2013,Rajasthan Royals,A Chandila
+818,2011,Chennai Super Kings,KMDN Kulasekara
+819,2014,Mumbai Indians,CJ Anderson
+820,2013,Kolkata Knight Riders,R McLaren
+821,2019,Rajasthan Royals,R Parag
+822,2016,Gujarat Lions,DJ Bravo
+823,2019,Chennai Super Kings,S Kuggeleijn
+824,2009,Deccan Chargers,DR Smith
+825,2016,Sunrisers Hyderabad,Yuvraj Singh
+826,2010,Royal Challengers Bangalore,S Sriram
+827,2017,Sunrisers Hyderabad,V Shankar
+828,2016,Kings XI Punjab,DA Miller
+829,2017,Gujarat Lions,PJ Sangwan
+830,2017,Sunrisers Hyderabad,DA Warner
+831,2011,Deccan Chargers,MJ Lumb
+832,2019,Sunrisers Hyderabad,J Bairstow
+833,2014,Rajasthan Royals,KK Cooper
+834,2015,Chennai Super Kings,SK Raina
+835,2017,Royal Challengers Bangalore,AF Milne
+836,2013,Royal Challengers Bangalore,TM Dilshan
+837,2011,Deccan Chargers,DW Steyn
+838,2010,Deccan Chargers,B Sumanth
+839,2009,Kings XI Punjab,Yuvraj Singh
+840,2011,Pune Warriors,JE Taylor
+841,2012,Mumbai Indians,R Shukla
+842,2016,Kolkata Knight Riders,G Gambhir
+843,2009,Deccan Chargers,RG Sharma
+844,2012,Kings XI Punjab,DA Miller
+845,2009,Rajasthan Royals,SD Chitnis
+846,2019,Royal Challengers Bangalore,UT Yadav
+847,2010,Deccan Chargers,DR Smith
+848,2010,Rajasthan Royals,Kamran Khan
+849,2017,Royal Challengers Bangalore,P Negi
+850,2017,Kings XI Punjab,AR Patel
+851,2012,Pune Warriors,M Manhas
+852,2011,Pune Warriors,AC Thomas
+853,2009,Rajasthan Royals,MM Patel
+854,2011,Chennai Super Kings,JA Morkel
+855,2019,Sunrisers Hyderabad,DJ Hooda
+856,2014,Delhi Daredevils,LR Shukla
+857,2012,Royal Challengers Bangalore,AB de Villiers
+858,2019,Royal Challengers Bangalore,TG Southee
+859,2009,Kings XI Punjab,VS Malik
+860,2011,Royal Challengers Bangalore,CH Gayle
+861,2008,Mumbai Indians,SS Tiwary
+862,2014,Sunrisers Hyderabad,DJG Sammy
+863,2017,Mumbai Indians,N Rana
+864,2011,Kings XI Punjab,KD Karthik
+865,2009,Delhi Daredevils,VY Mahesh
+866,2008,Deccan Chargers,RP Singh
+867,2014,Mumbai Indians,LMP Simmons
+868,2018,Kolkata Knight Riders,RV Uthappa
+869,2013,Rajasthan Royals,R Shukla
+870,2012,Chennai Super Kings,SB Jakati
+871,2010,Delhi Daredevils,A Nehra
+872,2010,Kolkata Knight Riders,AD Mathews
+873,2009,Royal Challengers Bangalore,RV Uthappa
+874,2014,Royal Challengers Bangalore,S Rana
+875,2019,Kings XI Punjab,KL Rahul
+876,2019,Rajasthan Royals,S Gopal
+877,2008,Deccan Chargers,AS Yadav
+878,2012,Chennai Super Kings,MS Dhoni
+879,2017,Sunrisers Hyderabad,Mohammed Siraj
+880,2009,Mumbai Indians,S Dhawan
+881,2009,Chennai Super Kings,GJ Bailey
+882,2014,Kolkata Knight Riders,SP Narine
+883,2016,Kolkata Knight Riders,Shakib Al Hasan
+884,2014,Mumbai Indians,Harbhajan Singh
+885,2009,Royal Challengers Bangalore,KV Sharma
+886,2017,Royal Challengers Bangalore,Avesh Khan
+887,2008,Mumbai Indians,ST Jayasuriya
+888,2018,Mumbai Indians,PJ Sangwan
+889,2008,Deccan Chargers,DNT Zoysa
+890,2015,Mumbai Indians,KA Pollard
+891,2011,Chennai Super Kings,MEK Hussey
+892,2009,Kolkata Knight Riders,AD Mathews
+893,2018,Royal Challengers Bangalore,BB McCullum
+894,2013,Chennai Super Kings,S Badrinath
+895,2015,Kings XI Punjab,Sandeep Sharma
+896,2011,Delhi Daredevils,Y Venugopal Rao
+897,2013,Kings XI Punjab,Sandeep Sharma
+898,2013,Rajasthan Royals,AL Menaria
+899,2014,Royal Challengers Bangalore,MA Starc
+900,2011,Deccan Chargers,S Dhawan
+901,2014,Kings XI Punjab,SE Marsh
+902,2018,Kolkata Knight Riders,PP Chawla
+903,2018,Mumbai Indians,RG Sharma
+904,2018,Delhi Daredevils,C Munro
+905,2010,Rajasthan Royals,AS Raut
+906,2010,Mumbai Indians,STR Binny
+907,2012,Pune Warriors,JD Ryder
+908,2010,Mumbai Indians,R Sathish
+909,2018,Sunrisers Hyderabad,B Stanlake
+910,2012,Deccan Chargers,MS Gony
+911,2014,Delhi Daredevils,LRPL Taylor
+912,2011,Delhi Daredevils,V Sehwag
+913,2011,Kochi Tuskers Kerala,S Sreesanth
+914,2013,Pune Warriors,M Manhas
+915,2008,Chennai Super Kings,M Muralitharan
+916,2011,Mumbai Indians,RG Sharma
+917,2012,Rajasthan Royals,OA Shah
+918,2015,Royal Challengers Bangalore,AN Ahmed
+919,2015,Delhi Daredevils,NM Coulter-Nile
+920,2016,Mumbai Indians,MJ McClenaghan
+921,2013,Delhi Daredevils,A Nehra
+922,2012,Kings XI Punjab,AD Mascarenhas
+923,2009,Mumbai Indians,Mohammad Ashraful
+924,2015,Delhi Daredevils,DJ Muthuswami
+925,2018,Kolkata Knight Riders,T Curran
+926,2008,Deccan Chargers,D Kalyankrishna
+927,2011,Kochi Tuskers Kerala,PA Patel
+928,2012,Kolkata Knight Riders,Iqbal Abdulla
+929,2011,Chennai Super Kings,DE Bollinger
+930,2011,Royal Challengers Bangalore,DP Nannes
+931,2009,Kolkata Knight Riders,A Chopra
+932,2014,Mumbai Indians,MEK Hussey
+933,2010,Rajasthan Royals,SR Watson
+934,2012,Mumbai Indians,HH Gibbs
+935,2010,Kings XI Punjab,RS Sodhi
+936,2015,Kings XI Punjab,SE Marsh
+937,2008,Kings XI Punjab,S Sohal
+938,2011,Pune Warriors,JD Ryder
+939,2012,Kings XI Punjab,P Awana
+940,2016,Kings XI Punjab,KJ Abbott
+941,2013,Royal Challengers Bangalore,MC Henriques
+942,2010,Royal Challengers Bangalore,SP Goswami
+943,2013,Kolkata Knight Riders,LR Shukla
+944,2008,Mumbai Indians,DJ Bravo
+945,2008,Royal Challengers Bangalore,CL White
+946,2009,Royal Challengers Bangalore,LRPL Taylor
+947,2013,Kings XI Punjab,LA Pomersbach
+948,2013,Chennai Super Kings,DP Nannes
+949,2017,Kings XI Punjab,Swapnil Singh
+950,2013,Sunrisers Hyderabad,PA Patel
+951,2018,Rajasthan Royals,D Short
+952,2008,Chennai Super Kings,L Balaji
+953,2019,Sunrisers Hyderabad,Ankit Sharma
+954,2009,Chennai Super Kings,ML Hayden
+955,2015,Chennai Super Kings,IC Pandey
+956,2015,Kings XI Punjab,Gurkeerat Singh
+957,2009,Rajasthan Royals,M Morkel
+958,2017,Kings XI Punjab,GJ Maxwell
+959,2018,Kolkata Knight Riders,AD Russell
+960,2018,Kolkata Knight Riders,SP Narine
+961,2015,Kings XI Punjab,M Vohra
+962,2010,Royal Challengers Bangalore,DW Steyn
+963,2013,Delhi Daredevils,B Chipli
+964,2014,Chennai Super Kings,DJ Hussey
+965,2010,Rajasthan Royals,A Uniyal
+966,2010,Kings XI Punjab,AB Barath
+967,2013,Royal Challengers Bangalore,CH Gayle
+968,2013,Kolkata Knight Riders,PJ Sangwan
+969,2016,Royal Challengers Bangalore,V Kohli
+970,2008,Mumbai Indians,DR Smith
+971,2017,Gujarat Lions,Tejas Baroka
+972,2011,Delhi Daredevils,AM Salvi
+973,2014,Kings XI Punjab,WP Saha
+974,2008,Kings XI Punjab,K Goel
+975,2016,Kolkata Knight Riders,R Sathish
+976,2017,Royal Challengers Bangalore,KM Jadhav
+977,2014,Delhi Daredevils,JDS Neesham
+978,2016,Kings XI Punjab,F Behardien
+979,2019,Delhi Capitals,AR Patel
+980,2009,Kolkata Knight Riders,AB Dinda
+981,2010,Chennai Super Kings,M Muralitharan
+982,2009,Delhi Daredevils,AM Salvi
+983,2018,Sunrisers Hyderabad,MK Pandey
+984,2019,Royal Challengers Bangalore,H Klaasen
+985,2013,Chennai Super Kings,S Anirudha
+986,2014,Royal Challengers Bangalore,AB Dinda
+987,2009,Kings XI Punjab,DPMD Jayawardene
+988,2015,Sunrisers Hyderabad,GH Vihari
+989,2012,Chennai Super Kings,S Badrinath
+990,2014,Delhi Daredevils,R Shukla
+991,2018,Kolkata Knight Riders,R Singh
+992,2010,Mumbai Indians,DS Kulkarni
+993,2008,Kolkata Knight Riders,I Sharma
+994,2017,Delhi Daredevils,S Nadeem
+995,2014,Kolkata Knight Riders,Shakib Al Hasan
+996,2018,Kolkata Knight Riders,MG Johnson
+997,2017,Royal Challengers Bangalore,HV Patel
+998,2011,Delhi Daredevils,M Morkel
+999,2019,Kings XI Punjab,M Ashwin
+1000,2010,Rajasthan Royals,P Dogra
+1001,2010,Royal Challengers Bangalore,P Kumar
+1002,2011,Rajasthan Royals,JDP Oram
+1003,2008,Mumbai Indians,SR Tendulkar
+1004,2009,Chennai Super Kings,S Tyagi
+1005,2008,Royal Challengers Bangalore,SB Joshi
+1006,2016,Gujarat Lions,AJ Finch
+1007,2011,Rajasthan Royals,AA Chavan
+1008,2015,Royal Challengers Bangalore,RR Rossouw
+1009,2017,Rising Pune Supergiant,AM Rahane
+1010,2012,Delhi Daredevils,Y Nagar
+1011,2014,Rajasthan Royals,BCJ Cutting
+1012,2013,Chennai Super Kings,RA Jadeja
+1013,2019,Royal Challengers Bangalore,P R Barman
+1014,2019,Chennai Super Kings,MM Sharma
+1015,2017,Delhi Daredevils,AR Bawne
+1016,2019,Chennai Super Kings,AT Rayudu
+1017,2011,Royal Challengers Bangalore,CK Langeveldt
+1018,2017,Mumbai Indians,RG Sharma
+1019,2018,Kings XI Punjab,DA Miller
+1020,2008,Chennai Super Kings,Joginder Sharma
+1021,2013,Sunrisers Hyderabad,NLTC Perera
+1022,2009,Kolkata Knight Riders,MN van Wyk
+1023,2009,Kolkata Knight Riders,Anureet Singh
+1024,2008,Kolkata Knight Riders,Shoaib Akhtar
+1025,2012,Pune Warriors,Harpreet Singh
+1026,2010,Kings XI Punjab,Bipul Sharma
+1027,2019,Chennai Super Kings,MS Dhoni
+1028,2009,Rajasthan Royals,A Singh
+1029,2012,Deccan Chargers,IR Jaggi
+1030,2014,Delhi Daredevils,Mohammed Shami
+1031,2011,Pune Warriors,MK Pandey
+1032,2017,Mumbai Indians,JJ Bumrah
+1033,2010,Kolkata Knight Riders,M Kartik
+1034,2015,Chennai Super Kings,RA Jadeja
+1035,2015,Kings XI Punjab,Anureet Singh
+1036,2019,Sunrisers Hyderabad,Shakib Al Hasan
+1037,2011,Deccan Chargers,B Chipli
+1038,2013,Kings XI Punjab,P Kumar
+1039,2019,Delhi Capitals,CH Morris
+1040,2014,Kings XI Punjab,L Balaji
+1041,2014,Mumbai Indians,JJ Bumrah
+1042,2008,Royal Challengers Bangalore,DW Steyn
+1043,2008,Mumbai Indians,Harbhajan Singh
+1044,2009,Mumbai Indians,C Nanda
+1045,2014,Kings XI Punjab,CA Pujara
+1046,2016,Royal Challengers Bangalore,AB de Villiers
+1047,2015,Mumbai Indians,JJ Bumrah
+1048,2010,Kings XI Punjab,RR Powar
+1049,2011,Mumbai Indians,AC Blizzard
+1050,2013,Kolkata Knight Riders,R Bhatia
+1051,2010,Rajasthan Royals,SB Wagh
+1052,2008,Rajasthan Royals,Pankaj Singh
+1053,2014,Sunrisers Hyderabad,Y Venugopal Rao
+1054,2008,Royal Challengers Bangalore,R Vinay Kumar
+1055,2008,Mumbai Indians,VS Yeligati
+1056,2009,Royal Challengers Bangalore,KP Pietersen
+1057,2014,Royal Challengers Bangalore,M Muralitharan
+1058,2018,Sunrisers Hyderabad,YK Pathan
+1059,2011,Kochi Tuskers Kerala,P Parameswaran
+1060,2008,Delhi Daredevils,DL Vettori
+1061,2018,Chennai Super Kings,KM Jadhav
+1062,2011,Rajasthan Royals,STR Binny
+1063,2014,Sunrisers Hyderabad,B Kumar
+1064,2014,Royal Challengers Bangalore,VH Zol
+1065,2019,Rajasthan Royals,JC Buttler
+1066,2013,Pune Warriors,LJ Wright
+1067,2017,Mumbai Indians,HH Pandya
+1068,2010,Kolkata Knight Riders,BJ Hodge
+1069,2018,Sunrisers Hyderabad,CR Brathwaite
+1070,2017,Royal Challengers Bangalore,B Stanlake
+1071,2011,Mumbai Indians,JEC Franklin
+1072,2008,Kings XI Punjab,S Sreesanth
+1073,2018,Sunrisers Hyderabad,Basil Thampi
+1074,2017,Kolkata Knight Riders,CR Woakes
+1075,2013,Royal Challengers Bangalore,RP Singh
+1076,2018,Chennai Super Kings,F du Plessis
+1077,2011,Kolkata Knight Riders,RN ten Doeschate
+1078,2015,Sunrisers Hyderabad,RS Bopara
+1079,2011,Kolkata Knight Riders,R Bhatia
+1080,2014,Rajasthan Royals,BJ Hodge
+1081,2016,Kolkata Knight Riders,CA Lynn
+1082,2011,Mumbai Indians,TL Suman
+1083,2013,Royal Challengers Bangalore,V Kohli
+1084,2013,Mumbai Indians,MM Patel
+1085,2014,Royal Challengers Bangalore,HV Patel
+1086,2013,Sunrisers Hyderabad,CL White
+1087,2016,Kings XI Punjab,M Vijay
+1088,2011,Kings XI Punjab,SD Chitnis
+1089,2013,Rajasthan Royals,DH Yagnik
+1090,2012,Delhi Daredevils,VR Aaron
+1091,2015,Royal Challengers Bangalore,HV Patel
+1092,2015,Delhi Daredevils,MA Agarwal
+1093,2018,Kings XI Punjab,M Ur Rahman
+1094,2014,Rajasthan Royals,UBT Chand
+1095,2015,Kings XI Punjab,GJ Maxwell
+1096,2011,Kochi Tuskers Kerala,RP Singh
+1097,2012,Kings XI Punjab,Azhar Mahmood
+1098,2014,Mumbai Indians,AP Tare
+1099,2010,Deccan Chargers,RG Sharma
+1100,2015,Rajasthan Royals,SV Samson
+1101,2019,Kolkata Knight Riders,J Denly
+1102,2011,Kolkata Knight Riders,MV Boucher
+1103,2010,Mumbai Indians,AN Ahmed
+1104,2015,Sunrisers Hyderabad,S Dhawan
+1105,2016,Mumbai Indians,LMP Simmons
+1106,2014,Royal Challengers Bangalore,YV Takawale
+1107,2016,Delhi Daredevils,KK Nair
+1108,2011,Rajasthan Royals,SK Warne
+1109,2009,Kings XI Punjab,S Sohal
+1110,2019,Delhi Capitals,HV Patel
+1111,2016,Sunrisers Hyderabad,Bipul Sharma
+1112,2018,Sunrisers Hyderabad,B Kumar
+1113,2016,Gujarat Lions,BB McCullum
+1114,2018,Royal Challengers Bangalore,Washington Sundar
+1115,2015,Delhi Daredevils,Imran Tahir
+1116,2011,Kochi Tuskers Kerala,BB McCullum
+1117,2014,Kings XI Punjab,M Vohra
+1118,2009,Royal Challengers Bangalore,V Kohli
+1119,2018,Delhi Daredevils,S Nadeem
+1120,2009,Deccan Chargers,Shoaib Ahmed
+1121,2018,Kings XI Punjab,MK Tiwary
+1122,2017,Royal Challengers Bangalore,Vishnu Vinod
+1123,2016,Mumbai Indians,S Gopal
+1124,2009,Chennai Super Kings,JA Morkel
+1125,2014,Kolkata Knight Riders,MS Bisla
+1126,2010,Deccan Chargers,Anirudh Singh
+1127,2011,Deccan Chargers,DB Ravi Teja
+1128,2011,Rajasthan Royals,AS Raut
+1129,2017,Sunrisers Hyderabad,Yuvraj Singh
+1130,2018,Royal Challengers Bangalore,M Vohra
+1131,2012,Deccan Chargers,Ankit Sharma
+1132,2010,Delhi Daredevils,Y Nagar
+1133,2015,Royal Challengers Bangalore,Iqbal Abdulla
+1134,2014,Rajasthan Royals,Ankit Sharma
+1135,2009,Delhi Daredevils,M Manhas
+1136,2011,Pune Warriors,M Manhas
+1137,2009,Deccan Chargers,HH Gibbs
+1138,2019,Kings XI Punjab,S Curran
+1139,2011,Delhi Daredevils,TR Birt
+1140,2011,Kochi Tuskers Kerala,NLTC Perera
+1141,2012,Royal Challengers Bangalore,M Muralitharan
+1142,2009,Deccan Chargers,Jaskaran Singh
+1143,2014,Rajasthan Royals,DH Yagnik
+1144,2010,Royal Challengers Bangalore,A Kumble
+1145,2008,Kings XI Punjab,RR Sarwan
+1146,2012,Kings XI Punjab,SD Chitnis
+1147,2019,Delhi Capitals,R Tewatia
+1148,2017,Kings XI Punjab,Sandeep Sharma
+1149,2015,Chennai Super Kings,R Ashwin
+1150,2017,Rising Pune Supergiant,MS Dhoni
+1151,2017,Rising Pune Supergiant,RA Tripathi
+1152,2010,Royal Challengers Bangalore,KP Pietersen
+1153,2019,Kings XI Punjab,A Singh
+1154,2016,Mumbai Indians,KH Pandya
+1155,2016,Delhi Daredevils,Imran Tahir
+1156,2010,Rajasthan Royals,M Morkel
+1157,2019,Royal Challengers Bangalore,S Dube
+1158,2011,Pune Warriors,TD Paine
+1159,2010,Kolkata Knight Riders,SC Ganguly
+1160,2017,Sunrisers Hyderabad,B Kumar
+1161,2016,Rising Pune Supergiants,A Zampa
+1162,2010,Rajasthan Royals,SW Tait
+1163,2012,Royal Challengers Bangalore,M Kaif
+1164,2012,Deccan Chargers,BB Samantray
+1165,2010,Deccan Chargers,Harmeet Singh
+1166,2011,Kochi Tuskers Kerala,P Prasanth
+1167,2016,Mumbai Indians,R Vinay Kumar
+1168,2014,Sunrisers Hyderabad,A Mishra
+1169,2014,Chennai Super Kings,F du Plessis
+1170,2013,Sunrisers Hyderabad,DB Ravi Teja
+1171,2019,Royal Challengers Bangalore,C de Grandhomme
+1172,2019,Kings XI Punjab,AS Rajpoot
+1173,2017,Kolkata Knight Riders,RV Uthappa
+1174,2017,Kings XI Punjab,KC Cariappa
+1175,2018,Chennai Super Kings,DJ Bravo
+1176,2009,Rajasthan Royals,Kamran Khan
+1177,2018,Royal Challengers Bangalore,CR Woakes
+1178,2019,Chennai Super Kings,KM Jadhav
+1179,2015,Rajasthan Royals,J Theron
+1180,2015,Chennai Super Kings,RG More
+1181,2015,Rajasthan Royals,Ankit Sharma
+1182,2013,Rajasthan Royals,SK Trivedi
+1183,2012,Royal Challengers Bangalore,V Kohli
+1184,2019,Delhi Capitals,A Mishra
+1185,2011,Delhi Daredevils,AB McDonald
+1186,2014,Mumbai Indians,RG Sharma
+1187,2017,Delhi Daredevils,J Yadav
+1188,2010,Deccan Chargers,KAJ Roach
+1189,2008,Deccan Chargers,RG Sharma
+1190,2013,Rajasthan Royals,S Sreesanth
+1191,2015,Delhi Daredevils,J Yadav
+1192,2019,Kings XI Punjab,M Ur Rahman
+1193,2011,Royal Challengers Bangalore,MA Agarwal
+1194,2016,Delhi Daredevils,JP Duminy
+1195,2008,Mumbai Indians,PR Shah
+1196,2013,Sunrisers Hyderabad,GH Vihari
+1197,2017,Rising Pune Supergiant,R Bhatia
+1198,2017,Gujarat Lions,AJ Tye
+1199,2016,Rising Pune Supergiants,RP Singh
+1200,2010,Chennai Super Kings,PA Patel
+1201,2018,Kings XI Punjab,MM Sharma
+1202,2008,Kolkata Knight Riders,SC Ganguly
+1203,2019,Delhi Capitals,P Shaw
+1204,2009,Mumbai Indians,Z Khan
+1205,2015,Delhi Daredevils,AD Mathews
+1206,2017,Royal Challengers Bangalore,S Badree
+1207,2014,Delhi Daredevils,NM Coulter-Nile
+1208,2013,Chennai Super Kings,MEK Hussey
+1209,2012,Delhi Daredevils,S Nadeem
+1210,2012,Delhi Daredevils,KP Pietersen
+1211,2013,Delhi Daredevils,RE van der Merwe
+1212,2019,Kings XI Punjab,AJ Tye
+1213,2014,Sunrisers Hyderabad,IK Pathan
+1214,2011,Pune Warriors,MD Mishra
+1215,2011,Kochi Tuskers Kerala,BJ Hodge
+1216,2014,Sunrisers Hyderabad,S Dhawan
+1217,2019,Delhi Capitals,J Suchith
+1218,2010,Kings XI Punjab,DPMD Jayawardene
+1219,2014,Mumbai Indians,CM Gautam
+1220,2012,Kolkata Knight Riders,YK Pathan
+1221,2008,Mumbai Indians,MK Pandey
+1222,2009,Royal Challengers Bangalore,RE van der Merwe
+1223,2011,Deccan Chargers,I Sharma
+1224,2008,Mumbai Indians,MA Khote
+1225,2014,Rajasthan Royals,STR Binny
+1226,2019,Rajasthan Royals,M Lomror
+1227,2013,Pune Warriors,KW Richardson
+1228,2013,Kings XI Punjab,DA Miller
+1229,2018,Rajasthan Royals,H Klaasen
+1230,2019,Royal Challengers Bangalore,YS Chahal
+1231,2009,Kolkata Knight Riders,M Kartik
+1232,2013,Kings XI Punjab,AC Gilchrist
+1233,2013,Pune Warriors,MK Pandey
+1234,2008,Delhi Daredevils,Mohammad Asif
+1235,2012,Royal Challengers Bangalore,MA Agarwal
+1236,2009,Deccan Chargers,AC Gilchrist
+1237,2019,Rajasthan Royals,VR Aaron
+1238,2010,Kings XI Punjab,SJ Srivastava
+1239,2014,Sunrisers Hyderabad,MC Henriques
+1240,2017,Gujarat Lions,MM Patel
+1241,2010,Royal Challengers Bangalore,LRPL Taylor
+1242,2015,Sunrisers Hyderabad,KV Sharma
+1243,2015,Royal Challengers Bangalore,S Aravind
+1244,2013,Mumbai Indians,KA Pollard
+1245,2011,Mumbai Indians,RW Price
+1246,2017,Delhi Daredevils,AP Tare
+1247,2009,Rajasthan Royals,J Botha
+1248,2019,Kolkata Knight Riders,P Krishna
+1249,2013,Mumbai Indians,GJ Maxwell
+1250,2015,Rajasthan Royals,PV Tambe
+1251,2016,Sunrisers Hyderabad,AP Tare
+1252,2011,Kings XI Punjab,SE Marsh
+1253,2008,Mumbai Indians,DJ Thornely
+1254,2018,Kings XI Punjab,AR Patel
+1255,2018,Delhi Daredevils,G Gambhir
+1256,2009,Deccan Chargers,Harmeet Singh
+1257,2014,Chennai Super Kings,V Shankar
+1258,2013,Sunrisers Hyderabad,KV Sharma
+1259,2009,Mumbai Indians,AM Rahane
+1260,2014,Sunrisers Hyderabad,JO Holder
+1261,2015,Rajasthan Royals,CH Morris
+1262,2015,Kings XI Punjab,V Sehwag
+1263,2019,Mumbai Indians,JJ Bumrah
+1264,2011,Kolkata Knight Riders,JH Kallis
+1265,2016,Kolkata Knight Riders,C Munro
+1266,2015,Rajasthan Royals,SPD Smith
+1267,2009,Chennai Super Kings,M Muralitharan
+1268,2011,Deccan Chargers,DT Christian
+1269,2015,Sunrisers Hyderabad,Bipul Sharma
+1270,2008,Kolkata Knight Riders,AB Dinda
+1271,2019,Royal Challengers Bangalore,P Negi
+1272,2009,Kolkata Knight Riders,LR Shukla
+1273,2012,Mumbai Indians,CJ McKay
+1274,2018,Royal Challengers Bangalore,V Kohli
+1275,2015,Delhi Daredevils,SS Iyer
+1276,2011,Chennai Super Kings,DJ Bravo
+1277,2013,Kolkata Knight Riders,Iqbal Abdulla
+1278,2008,Kings XI Punjab,DPMD Jayawardene
+1279,2010,Kolkata Knight Riders,LR Shukla
+1280,2013,Pune Warriors,MN Samuels
+1281,2011,Royal Challengers Bangalore,S Aravind
+1282,2010,Chennai Super Kings,JM Kemp
+1283,2016,Kolkata Knight Riders,Kuldeep Yadav
+1284,2010,Rajasthan Royals,MJ Lumb
+1285,2012,Royal Challengers Bangalore,CA Pujara
+1286,2011,Deccan Chargers,A Mishra
+1287,2015,Mumbai Indians,J Suchith
+1288,2010,Deccan Chargers,TL Suman
+1289,2010,Chennai Super Kings,SK Raina
+1290,2016,Sunrisers Hyderabad,KV Sharma
+1291,2018,Royal Challengers Bangalore,Mandeep Singh
+1292,2014,Royal Challengers Bangalore,R Rampaul
+1293,2019,Mumbai Indians,AS Yadav
+1294,2012,Rajasthan Royals,R Dravid
+1295,2010,Chennai Super Kings,ML Hayden
+1296,2016,Delhi Daredevils,SV Samson
+1297,2015,Delhi Daredevils,Yuvraj Singh
+1298,2010,Delhi Daredevils,MF Maharoof
+1299,2017,Kolkata Knight Riders,CA Lynn
+1300,2014,Kings XI Punjab,Mandeep Singh
+1301,2019,Delhi Capitals,K Rabada
+1302,2016,Sunrisers Hyderabad,BCJ Cutting
+1303,2012,Kings XI Punjab,Bipul Sharma
+1304,2009,Kolkata Knight Riders,DJ Hussey
+1305,2010,Kolkata Knight Riders,CK Langeveldt
+1306,2016,Sunrisers Hyderabad,MC Henriques
+1307,2009,Mumbai Indians,DJ Bravo
+1308,2017,Gujarat Lions,DR Smith
+1309,2017,Delhi Daredevils,MN Samuels
+1310,2011,Delhi Daredevils,MS Wade
+1311,2018,Royal Challengers Bangalore,AB de Villiers
+1312,2017,Royal Challengers Bangalore,TS Mills
+1313,2017,Delhi Daredevils,Z Khan
+1314,2013,Pune Warriors,WD Parnell
+1315,2016,Delhi Daredevils,NM Coulter-Nile
+1316,2018,Delhi Daredevils,Avesh Khan
+1317,2011,Delhi Daredevils,S Nadeem
+1318,2017,Delhi Daredevils,A Mishra
+1319,2012,Kolkata Knight Riders,SP Narine
+1320,2010,Royal Challengers Bangalore,MV Boucher
+1321,2017,Rising Pune Supergiant,MK Tiwary
+1322,2011,Mumbai Indians,KA Pollard
+1323,2015,Chennai Super Kings,A Nehra
+1324,2008,Chennai Super Kings,CK Kapugedera
+1325,2011,Delhi Daredevils,RE van der Merwe
+1326,2010,Chennai Super Kings,Joginder Sharma
+1327,2010,Kings XI Punjab,IK Pathan
+1328,2015,Royal Challengers Bangalore,CH Gayle
+1329,2009,Mumbai Indians,PR Shah
+1330,2015,Kolkata Knight Riders,G Gambhir
+1331,2016,Gujarat Lions,SK Raina
+1332,2012,Pune Warriors,MK Pandey
+1333,2013,Rajasthan Royals,BJ Hodge
+1334,2013,Rajasthan Royals,Sachin Baby
+1335,2012,Deccan Chargers,DB Ravi Teja
+1336,2016,Gujarat Lions,DR Smith
+1337,2019,Rajasthan Royals,J Archer
+1338,2009,Kolkata Knight Riders,MC Henriques
+1339,2012,Mumbai Indians,Harbhajan Singh
+1340,2017,Sunrisers Hyderabad,S Dhawan
+1341,2012,Royal Challengers Bangalore,RR Bhatkal
+1342,2017,Rising Pune Supergiant,Washington Sundar
+1343,2009,Deccan Chargers,PP Ojha
+1344,2010,Delhi Daredevils,M Manhas
+1345,2019,Chennai Super Kings,Harbhajan Singh
+1346,2010,Deccan Chargers,R Sharma
+1347,2018,Mumbai Indians,HH Pandya
+1348,2008,Chennai Super Kings,A Mukund
+1349,2017,Rising Pune Supergiant,F du Plessis
+1350,2014,Rajasthan Royals,AM Rahane
+1351,2019,Chennai Super Kings,SR Watson
+1352,2013,Kolkata Knight Riders,RN ten Doeschate
+1353,2008,Royal Challengers Bangalore,A Kumble
+1354,2010,Chennai Super Kings,S Tyagi
+1355,2014,Chennai Super Kings,SK Raina
+1356,2014,Chennai Super Kings,M Manhas
+1357,2016,Kolkata Knight Riders,GB Hogg
+1358,2009,Kolkata Knight Riders,Yashpal Singh
+1359,2013,Mumbai Indians,NM Coulter-Nile
+1360,2013,Rajasthan Royals,OA Shah
+1361,2014,Rajasthan Royals,PV Tambe
+1362,2016,Kings XI Punjab,WP Saha
+1363,2014,Mumbai Indians,SL Malinga
+1364,2018,Delhi Daredevils,HV Patel
+1365,2011,Kochi Tuskers Kerala,VVS Laxman
+1366,2013,Royal Challengers Bangalore,SS Tiwary
+1367,2019,Rajasthan Royals,K Gowtham
+1368,2010,Kolkata Knight Riders,CH Gayle
+1369,2011,Pune Warriors,SB Wagh
+1370,2011,Delhi Daredevils,NV Ojha
+1371,2015,Sunrisers Hyderabad,NV Ojha
+1372,2017,Sunrisers Hyderabad,Mustafizur Rahman
+1373,2015,Rajasthan Royals,R Tewatia
+1374,2019,Kings XI Punjab,CH Gayle
+1375,2019,Kings XI Punjab,V Chakravarthy
+1376,2013,Sunrisers Hyderabad,S Dhawan
+1377,2016,Kings XI Punjab,Sandeep Sharma
+1378,2018,Delhi Daredevils,JJ Roy
+1379,2019,Mumbai Indians,KA Pollard
+1380,2014,Kolkata Knight Riders,CA Lynn
+1381,2009,Rajasthan Royals,SM Harwood
+1382,2011,Rajasthan Royals,A Singh
+1383,2010,Mumbai Indians,AT Rayudu
+1384,2012,Mumbai Indians,NLTC Perera
+1385,2012,Pune Warriors,K Upadhyay
+1386,2016,Royal Challengers Bangalore,D Wiese
+1387,2014,Delhi Daredevils,Imran Tahir
+1388,2017,Delhi Daredevils,AD Mathews
+1389,2014,Kolkata Knight Riders,YK Pathan
+1390,2016,Mumbai Indians,HH Pandya
+1391,2018,Sunrisers Hyderabad,Shakib Al Hasan
+1392,2019,Rajasthan Royals,JD Unadkat
+1393,2019,Mumbai Indians,Ishan Kishan
+1394,2008,Mumbai Indians,L Ronchi
+1395,2016,Mumbai Indians,KA Pollard
+1396,2008,Deccan Chargers,A Symonds
+1397,2008,Deccan Chargers,PP Ojha
+1398,2008,Delhi Daredevils,Shoaib Malik
+1399,2010,Delhi Daredevils,DA Warner
+1400,2013,Delhi Daredevils,BMAJ Mendis
+1401,2014,Rajasthan Royals,SR Watson
+1402,2010,Rajasthan Royals,AA Jhunjhunwala
+1403,2009,Delhi Daredevils,MF Maharoof
+1404,2009,Royal Challengers Bangalore,SP Goswami
+1405,2009,Royal Challengers Bangalore,Pankaj Singh
+1406,2013,Pune Warriors,RV Gomez
+1407,2010,Mumbai Indians,SR Tendulkar
+1408,2014,Rajasthan Royals,SV Samson
+1409,2009,Deccan Chargers,VVS Laxman
+1410,2014,Mumbai Indians,KA Pollard
+1411,2017,Mumbai Indians,KA Pollard
+1412,2014,Kolkata Knight Riders,PP Chawla
+1413,2011,Pune Warriors,B Kumar
+1414,2010,Kolkata Knight Riders,DJ Hussey
+1415,2010,Chennai Super Kings,MEK Hussey
+1416,2011,Deccan Chargers,MS Gony
+1417,2008,Deccan Chargers,SB Bangar
+1418,2016,Royal Challengers Bangalore,Sachin Baby
+1419,2019,Sunrisers Hyderabad,R Bhui
+1420,2010,Kings XI Punjab,RS Bopara
+1421,2014,Royal Challengers Bangalore,VR Aaron
+1422,2017,Mumbai Indians,PA Patel
+1423,2017,Gujarat Lions,RA Jadeja
+1424,2016,Gujarat Lions,S Kaushik
+1425,2012,Mumbai Indians,PP Ojha
+1426,2014,Chennai Super Kings,R Ashwin
+1427,2018,Kolkata Knight Riders,P Krishna
+1428,2011,Chennai Super Kings,S Anirudha
+1429,2013,Rajasthan Royals,AA Chavan
+1430,2018,Kolkata Knight Riders,R Vinay Kumar
+1431,2010,Royal Challengers Bangalore,RV Uthappa
+1432,2008,Delhi Daredevils,PJ Sangwan
+1433,2015,Rajasthan Royals,JP Faulkner
+1434,2016,Kings XI Punjab,P Sahu
+1435,2013,Kings XI Punjab,P Awana
+1436,2013,Sunrisers Hyderabad,BB Samantray
+1437,2016,Rising Pune Supergiants,MR Marsh
+1438,2018,Chennai Super Kings,RA Jadeja
+1439,2016,Kolkata Knight Riders,AS Rajpoot
+1440,2008,Delhi Daredevils,VY Mahesh
+1441,2013,Royal Challengers Bangalore,KL Rahul
+1442,2019,Kolkata Knight Riders,R Singh
+1443,2015,Sunrisers Hyderabad,DW Steyn
+1444,2018,Sunrisers Hyderabad,KS Williamson
+1445,2017,Kolkata Knight Riders,YK Pathan
+1446,2014,Chennai Super Kings,MS Dhoni
+1447,2013,Rajasthan Royals,MDKJ Perera
+1448,2015,Chennai Super Kings,F du Plessis
+1449,2009,Delhi Daredevils,A Mishra
+1450,2011,Pune Warriors,Yuvraj Singh
+1451,2017,Mumbai Indians,MG Johnson
+1452,2018,Delhi Daredevils,NV Ojha
+1453,2010,Chennai Super Kings,M Vijay
+1454,2017,Delhi Daredevils,CR Brathwaite
+1455,2016,Kolkata Knight Riders,YK Pathan
+1456,2017,Gujarat Lions,S Kaushik
+1457,2012,Pune Warriors,B Kumar
+1458,2010,Kolkata Knight Riders,CA Pujara
+1459,2012,Deccan Chargers,JP Duminy
+1460,2018,Kings XI Punjab,MA Agarwal
+1461,2016,Mumbai Indians,JC Buttler
+1462,2018,Sunrisers Hyderabad,CJ Jordan
+1463,2008,Kolkata Knight Riders,Mohammad Hafeez
+1464,2008,Rajasthan Royals,Younis Khan
+1465,2013,Rajasthan Royals,Harmeet Singh (2)
+1466,2016,Kolkata Knight Riders,M Morkel
+1467,2008,Kolkata Knight Riders,AB Agarkar
+1468,2018,Delhi Daredevils,GJ Maxwell
+1469,2019,Mumbai Indians,KH Pandya
+1470,2014,Delhi Daredevils,KP Pietersen
+1471,2019,Delhi Capitals,SS Iyer
+1472,2015,Royal Challengers Bangalore,YS Chahal
+1473,2011,Kolkata Knight Riders,L Balaji
+1474,2014,Chennai Super Kings,BW Hilfenhaus
+1475,2012,Mumbai Indians,RE Levi
+1476,2014,Delhi Daredevils,M Vijay
+1477,2019,Kolkata Knight Riders,S Gill
+1478,2017,Kings XI Punjab,DA Miller
+1479,2014,Chennai Super Kings,MM Sharma
+1480,2012,Chennai Super Kings,F du Plessis
+1481,2009,Royal Challengers Bangalore,D du Preez
+1482,2017,Kings XI Punjab,WP Saha
+1483,2014,Kolkata Knight Riders,MK Pandey
+1484,2013,Kings XI Punjab,DJ Hussey
+1485,2015,Mumbai Indians,UBT Chand
+1486,2013,Sunrisers Hyderabad,PA Reddy
+1487,2015,Mumbai Indians,LMP Simmons
+1488,2016,Gujarat Lions,S Ladda
+1489,2015,Royal Challengers Bangalore,NJ Maddinson
+1490,2019,Rajasthan Royals,RA Tripathi
+1491,2010,Chennai Super Kings,R Ashwin
+1492,2008,Delhi Daredevils,G Gambhir
+1493,2013,Pune Warriors,M Rawat
+1494,2009,Chennai Super Kings,A Flintoff
+1495,2008,Delhi Daredevils,GD McGrath
+1496,2011,Deccan Chargers,Anand Rajan
+1497,2017,Rising Pune Supergiant,RD Chahar
+1498,2010,Delhi Daredevils,V Sehwag
+1499,2011,Rajasthan Royals,SA Asnodkar
+1500,2015,Mumbai Indians,M de Lange
+1501,2012,Delhi Daredevils,IK Pathan
+1502,2009,Kings XI Punjab,IK Pathan
+1503,2012,Delhi Daredevils,AB Agarkar
+1504,2008,Chennai Super Kings,S Anirudha
+1505,2014,Kings XI Punjab,Karanveer Singh
+1506,2019,Sunrisers Hyderabad,S Nadeem
+1507,2012,Royal Challengers Bangalore,SS Tiwary
+1508,2008,Kings XI Punjab,WA Mota
+1509,2008,Deccan Chargers,PM Sarvesh Kumar
+1510,2015,Sunrisers Hyderabad,EJG Morgan
+1511,2008,Rajasthan Royals,SK Warne
+1512,2009,Kings XI Punjab,KC Sangakkara
+1513,2019,Delhi Capitals,RR Pant
+1514,2016,Kings XI Punjab,AR Patel
+1515,2011,Kochi Tuskers Kerala,M Klinger
+1516,2013,Pune Warriors,R Sharma
+1517,2015,Mumbai Indians,AJ Finch
+1518,2008,Kings XI Punjab,PP Chawla
+1519,2010,Mumbai Indians,R McLaren
+1520,2013,Kolkata Knight Riders,JH Kallis
+1521,2010,Kolkata Knight Riders,MK Tiwary
+1522,2009,Kings XI Punjab,RR Bose
+1523,2011,Royal Challengers Bangalore,JJ van der Wath
+1524,2012,Delhi Daredevils,M Morkel
+1525,2019,Sunrisers Hyderabad,MJ Guptill
+1526,2019,Rajasthan Royals,S Midhun
+1527,2016,Sunrisers Hyderabad,DJ Hooda
+1528,2008,Mumbai Indians,A Nel
+1529,2016,Rising Pune Supergiants,AM Rahane
+1530,2012,Royal Challengers Bangalore,KP Appanna
+1531,2016,Royal Challengers Bangalore,KW Richardson
+1532,2012,Kings XI Punjab,Mandeep Singh
+1533,2019,Mumbai Indians,A Roy
+1534,2019,Sunrisers Hyderabad,MK Pandey
+1535,2010,Chennai Super Kings,KB Arun Karthik
+1536,2017,Rising Pune Supergiant,MA Agarwal
+1537,2013,Rajasthan Royals,JP Faulkner
+1538,2018,Royal Challengers Bangalore,YS Chahal
+1539,2018,Chennai Super Kings,SW Billings
+1540,2019,Sunrisers Hyderabad,S Kaul
+1541,2016,Sunrisers Hyderabad,KS Williamson
+1542,2014,Rajasthan Royals,VS Malik
+1543,2013,Pune Warriors,AM Nayar
+1544,2009,Deccan Chargers,DB Ravi Teja
+1545,2008,Kings XI Punjab,IK Pathan
+1546,2010,Delhi Daredevils,S Ladda
+1547,2017,Delhi Daredevils,Mohammed Shami
+1548,2012,Delhi Daredevils,UBT Chand
+1549,2015,Kings XI Punjab,Karanveer Singh
+1550,2013,Pune Warriors,AB Dinda
+1551,2014,Kings XI Punjab,R Dhawan
+1552,2013,Pune Warriors,Parvez Rasool
+1553,2011,Deccan Chargers,JP Duminy
+1554,2015,Delhi Daredevils,MK Tiwary
+1555,2017,Kolkata Knight Riders,SP Jackson
+1556,2014,Sunrisers Hyderabad,I Sharma
+1557,2009,Delhi Daredevils,Y Nagar
+1558,2016,Rising Pune Supergiants,SPD Smith
+1559,2018,Mumbai Indians,M Markande
+1560,2019,Sunrisers Hyderabad,K Ahmed
+1561,2013,Pune Warriors,BAW Mendis
+1562,2012,Kings XI Punjab,PP Chawla
+1563,2011,Delhi Daredevils,Y Nagar
+1564,2008,Rajasthan Royals,DS Lehmann
+1565,2011,Deccan Chargers,Harmeet Singh
+1566,2016,Rising Pune Supergiants,R Bhatia
+1567,2013,Mumbai Indians,DR Smith
+1568,2019,Mumbai Indians,J Behrendorff
+1569,2008,Chennai Super Kings,JA Morkel
+1570,2013,Delhi Daredevils,MC Juneja
+1571,2016,Kings XI Punjab,GJ Maxwell
+1572,2010,Chennai Super Kings,DE Bollinger
+1573,2013,Royal Challengers Bangalore,A Mithun
+1574,2008,Kolkata Knight Riders,BJ Hodge
+1575,2011,Royal Challengers Bangalore,R Ninan
+1576,2017,Kings XI Punjab,HM Amla
+1577,2008,Deccan Chargers,H Das
+1578,2015,Delhi Daredevils,Q de Kock
+1579,2014,Kolkata Knight Riders,PJ Cummins
+1580,2010,Royal Challengers Bangalore,JH Kallis
+1581,2014,Kolkata Knight Riders,G Gambhir
+1582,2011,Kolkata Knight Riders,Iqbal Abdulla
+1583,2011,Pune Warriors,R Sharma
+1584,2017,Delhi Daredevils,SS Iyer
+1585,2013,Kolkata Knight Riders,YK Pathan
+1586,2013,Kolkata Knight Riders,S Narwal
+1587,2012,Deccan Chargers,CA Lynn
+1588,2018,Kings XI Punjab,AS Rajpoot
+1589,2014,Chennai Super Kings,DR Smith
+1590,2019,Chennai Super Kings,F du Plessis
+1591,2011,Kochi Tuskers Kerala,RA Jadeja
+1592,2015,Royal Challengers Bangalore,SN Khan
+1593,2008,Kolkata Knight Riders,LR Shukla
+1594,2016,Royal Challengers Bangalore,SN Khan
+1595,2012,Delhi Daredevils,Y Venugopal Rao
+1596,2009,Rajasthan Royals,AD Mascarenhas
+1597,2012,Royal Challengers Bangalore,A Mithun
+1598,2014,Mumbai Indians,PP Ojha
+1599,2017,Kings XI Punjab,VR Aaron
+1600,2011,Kolkata Knight Riders,YK Pathan
+1601,2012,Chennai Super Kings,RA Jadeja
+1602,2015,Kolkata Knight Riders,RV Uthappa
+1603,2009,Royal Challengers Bangalore,JD Ryder
+1604,2016,Royal Challengers Bangalore,AF Milne
+1605,2008,Rajasthan Royals,Sohail Tanvir
+1606,2010,Delhi Daredevils,MC Henriques
+1607,2015,Kolkata Knight Riders,M Morkel
+1608,2015,Kolkata Knight Riders,YK Pathan
+1609,2015,Mumbai Indians,P Suyal
+1610,2019,Sunrisers Hyderabad,DA Warner
+1611,2008,Mumbai Indians,SM Pollock
+1612,2011,Rajasthan Royals,J Botha
+1613,2013,Mumbai Indians,MG Johnson
+1614,2008,Kolkata Knight Riders,Umar Gul
+1615,2016,Rising Pune Supergiants,SM Boland
+1616,2008,Delhi Daredevils,MK Tiwary
+1617,2016,Kolkata Knight Riders,PP Chawla
+1618,2009,Mumbai Indians,SL Malinga
+1619,2014,Royal Challengers Bangalore,SB Jakati
+1620,2017,Gujarat Lions,SK Raina
+1621,2009,Delhi Daredevils,R Bhatia
+1622,2009,Rajasthan Royals,RJ Quiney
+1623,2013,Sunrisers Hyderabad,DJG Sammy
+1624,2008,Rajasthan Royals,YK Pathan
+1625,2009,Chennai Super Kings,JDP Oram
+1626,2013,Rajasthan Royals,PV Tambe
+1627,2010,Royal Challengers Bangalore,KP Appanna
+1628,2015,Kings XI Punjab,SN Thakur
+1629,2011,Pune Warriors,MR Marsh
+1630,2018,Rajasthan Royals,JD Unadkat
+1631,2016,Kolkata Knight Riders,SP Narine
+1632,2011,Delhi Daredevils,VR Aaron
+1633,2017,Gujarat Lions,Ankit Soni
+1634,2013,Royal Challengers Bangalore,DT Christian
+1635,2016,Kolkata Knight Riders,AD Russell
+1636,2013,Kolkata Knight Riders,MK Tiwary
+1637,2012,Deccan Chargers,TP Sudhindra
+1638,2013,Mumbai Indians,KD Karthik
+1639,2013,Royal Challengers Bangalore,CA Pujara
+1640,2010,Chennai Super Kings,L Balaji
+1641,2012,Rajasthan Royals,AA Chavan
+1642,2012,Deccan Chargers,DW Steyn
+1643,2017,Rising Pune Supergiant,SPD Smith
+1644,2011,Mumbai Indians,R Sathish
+1645,2019,Royal Challengers Bangalore,Gurkeerat Singh
+1646,2011,Delhi Daredevils,AJ Finch
+1647,2013,Rajasthan Royals,S Badree
+1648,2012,Chennai Super Kings,S Anirudha
+1649,2010,Mumbai Indians,S Dhawan
+1650,2009,Kolkata Knight Riders,SS Sarkar
+1651,2018,Kings XI Punjab,BB Sran
+1652,2010,Rajasthan Royals,YK Pathan
+1653,2018,Sunrisers Hyderabad,Mohammad Nabi
+1654,2018,Rajasthan Royals,I Sodhi
+1655,2012,Pune Warriors,CJ Ferguson
+1656,2019,Royal Challengers Bangalore,Mohammed Siraj
+1657,2014,Kings XI Punjab,Sandeep Sharma
+1658,2012,Rajasthan Royals,SP Goswami
+1659,2018,Royal Challengers Bangalore,K Khejroliya
+1660,2008,Delhi Daredevils,B Geeves
+1661,2011,Kolkata Knight Riders,MK Tiwary
+1662,2008,Chennai Super Kings,PA Patel
+1663,2018,Rajasthan Royals,K Gowtham
+1664,2011,Kochi Tuskers Kerala,DPMD Jayawardene
+1665,2012,Kolkata Knight Riders,DB Das
+1666,2011,Pune Warriors,RV Uthappa
+1667,2015,Delhi Daredevils,SS Tiwary
+1668,2009,Kings XI Punjab,RS Bopara
+1669,2008,Delhi Daredevils,S Dhawan
+1670,2011,Rajasthan Royals,SR Watson
+1671,2009,Delhi Daredevils,AB McDonald
+1672,2008,Chennai Super Kings,SP Fleming
+1673,2014,Rajasthan Royals,AM Nayar
+1674,2013,Delhi Daredevils,S Kaul
+1675,2010,Mumbai Indians,AG Murtaza
+1676,2014,Chennai Super Kings,JW Hastings
+1677,2013,Mumbai Indians,AP Tare
+1678,2015,Sunrisers Hyderabad,P Kumar
+1679,2008,Delhi Daredevils,AB de Villiers
+1680,2014,Rajasthan Royals,Iqbal Abdulla
+1681,2018,Sunrisers Hyderabad,WP Saha
+1682,2018,Chennai Super Kings,D Shorey
+1683,2010,Mumbai Indians,C Madan
+1684,2010,Kolkata Knight Riders,AB Agarkar
+1685,2013,Chennai Super Kings,AS Rajpoot
+1686,2019,Kings XI Punjab,DA Miller
+1687,2009,Chennai Super Kings,M Vijay
+1688,2010,Delhi Daredevils,A Mishra
+1689,2013,Delhi Daredevils,AB Agarkar
+1690,2016,Sunrisers Hyderabad,EJG Morgan
+1691,2014,Royal Challengers Bangalore,JA Morkel
+1692,2018,Chennai Super Kings,M Vijay
+1693,2014,Kings XI Punjab,GJ Maxwell
+1694,2014,Chennai Super Kings,RA Jadeja
+1695,2014,Sunrisers Hyderabad,DA Warner
+1696,2008,Kolkata Knight Riders,Salman Butt
+1697,2009,Mumbai Indians,ST Jayasuriya
+1698,2014,Kolkata Knight Riders,SA Yadav
+1699,2015,Kings XI Punjab,GJ Bailey
+1700,2013,Kings XI Punjab,M Vohra
+1701,2018,Rajasthan Royals,P Chopra
+1702,2016,Rising Pune Supergiants,IK Pathan
+1703,2012,Kolkata Knight Riders,RN ten Doeschate
+1704,2015,Rajasthan Royals,DJ Hooda
+1705,2016,Mumbai Indians,MJ Guptill
+1706,2015,Kolkata Knight Riders,SP Narine
+1707,2012,Pune Warriors,AG Murtaza
+1708,2011,Chennai Super Kings,M Vijay
+1709,2010,Kings XI Punjab,YA Abdulla
+1710,2014,Kings XI Punjab,MG Johnson
+1711,2013,Mumbai Indians,P Suyal
+1712,2015,Mumbai Indians,MJ McClenaghan
+1713,2013,Kings XI Punjab,PP Chawla
+1714,2012,Kolkata Knight Riders,M de Lange
+1715,2017,Rising Pune Supergiant,DL Chahar
+1716,2018,Kolkata Knight Riders,J Searles
+1717,2018,Delhi Daredevils,SS Iyer
+1718,2010,Deccan Chargers,AC Gilchrist
+1719,2008,Chennai Super Kings,M Ntini
+1720,2011,Kings XI Punjab,RJ Harris
+1721,2014,Royal Challengers Bangalore,NJ Maddinson
+1722,2009,Rajasthan Royals,YK Pathan
+1723,2008,Deccan Chargers,HH Gibbs
+1724,2008,Kolkata Knight Riders,DJ Hussey
+1725,2014,Delhi Daredevils,JD Unadkat
+1726,2013,Delhi Daredevils,DPMD Jayawardene
+1727,2014,Sunrisers Hyderabad,NV Ojha
+1728,2016,Sunrisers Hyderabad,A Ashish Reddy
+1729,2011,Delhi Daredevils,JR Hopes
+1730,2017,Sunrisers Hyderabad,BB Sran
+1731,2014,Delhi Daredevils,S Kaul
+1732,2012,Kings XI Punjab,BA Bhatt
+1733,2017,Sunrisers Hyderabad,DJ Hooda
+1734,2013,Pune Warriors,IC Pandey
+1735,2009,Rajasthan Royals,GC Smith
+1736,2012,Chennai Super Kings,DJ Bravo
+1737,2016,Gujarat Lions,PV Tambe
+1738,2019,Delhi Capitals,TA Boult
+1739,2011,Royal Challengers Bangalore,KB Arun Karthik
+1740,2013,Rajasthan Royals,SV Samson
+1741,2011,Kochi Tuskers Kerala,R Vinay Kumar
+1742,2016,Rising Pune Supergiants,UT Khawaja
+1743,2017,Kings XI Punjab,R Tewatia
+1744,2009,Kings XI Punjab,RR Powar
+1745,2016,Rising Pune Supergiants,MS Dhoni
+1746,2018,Rajasthan Royals,J Archer
+1747,2008,Kings XI Punjab,Gagandeep Singh
+1748,2013,Royal Challengers Bangalore,A Mukund
+1749,2008,Delhi Daredevils,R Bhatia
+1750,2014,Rajasthan Royals,SPD Smith
+1751,2015,Royal Challengers Bangalore,V Kohli
+1752,2009,Kolkata Knight Riders,BAW Mendis
+1753,2011,Kochi Tuskers Kerala,RV Gomez
+1754,2009,Kolkata Knight Riders,SB Bangar
+1755,2011,Pune Warriors,WD Parnell
+1756,2008,Delhi Daredevils,TM Dilshan
+1757,2010,Mumbai Indians,CRD Fernando
+1758,2009,Rajasthan Royals,SK Trivedi
+1759,2008,Royal Challengers Bangalore,JH Kallis
+1760,2013,Kolkata Knight Riders,L Balaji
+1761,2012,Kolkata Knight Riders,JH Kallis
+1762,2008,Mumbai Indians,CRD Fernando
+1763,2008,Royal Challengers Bangalore,Z Khan
+1764,2010,Kolkata Knight Riders,JD Unadkat
+1765,2018,Rajasthan Royals,STR Binny
+1766,2008,Deccan Chargers,VVS Laxman
+1767,2019,Mumbai Indians,J Yadav
+1768,2009,Mumbai Indians,DS Kulkarni
+1769,2010,Chennai Super Kings,T Thushara
+1770,2013,Royal Challengers Bangalore,Z Khan
+1771,2013,Kolkata Knight Riders,P Dogra
+1772,2011,Chennai Super Kings,SB Styris
+1773,2017,Gujarat Lions,BB McCullum
+1774,2017,Rising Pune Supergiant,Imran Tahir
+1775,2012,Rajasthan Royals,KK Cooper
+1776,2014,Delhi Daredevils,R Sharma
+1777,2008,Chennai Super Kings,ML Hayden
+1778,2013,Rajasthan Royals,R Dravid
+1779,2010,Chennai Super Kings,NLTC Perera
+1780,2010,Rajasthan Royals,DR Martyn
+1781,2017,Kings XI Punjab,Anureet Singh
+1782,2013,Mumbai Indians,Harbhajan Singh
+1783,2011,Mumbai Indians,A Symonds
+1784,2011,Mumbai Indians,MM Patel
+1785,2012,Kings XI Punjab,DJ Hussey
+1786,2019,Sunrisers Hyderabad,B Kumar
+1787,2011,Royal Challengers Bangalore,V Kohli
+1788,2012,Mumbai Indians,MM Patel
+1789,2019,Kolkata Knight Riders,PP Chawla
+1790,2008,Royal Challengers Bangalore,R Dravid
+1791,2018,Rajasthan Royals,M Lomror
+1792,2016,Royal Challengers Bangalore,T Shamsi
+1793,2012,Pune Warriors,SPD Smith
+1794,2015,Mumbai Indians,PA Patel
+1795,2019,Kolkata Knight Riders,L Ferguson
+1796,2011,Deccan Chargers,S Sohal
+1797,2013,Mumbai Indians,AN Ahmed
+1798,2011,Royal Challengers Bangalore,M Kaif
+1799,2012,Deccan Chargers,DJ Harris
+1800,2012,Rajasthan Royals,GB Hogg
+1801,2016,Royal Challengers Bangalore,CJ Jordan
+1802,2014,Sunrisers Hyderabad,AJ Finch
+1803,2014,Delhi Daredevils,WD Parnell
+1804,2017,Royal Challengers Bangalore,Mandeep Singh
+1805,2017,Royal Challengers Bangalore,A Choudhary
+1806,2018,Chennai Super Kings,KV Sharma
+1807,2010,Delhi Daredevils,KD Karthik
+1808,2009,Delhi Daredevils,G Gambhir
+1809,2010,Kings XI Punjab,S Sreesanth
+1810,2008,Kolkata Knight Riders,A Chopra
+1811,2009,Kings XI Punjab,WA Mota
+1812,2009,Royal Challengers Bangalore,MV Boucher
+1813,2017,Mumbai Indians,KV Sharma
+1814,2008,Kolkata Knight Riders,RT Ponting
+1815,2012,Kings XI Punjab,PC Valthaty
+1816,2009,Delhi Daredevils,A Nehra
+1817,2015,Royal Challengers Bangalore,Mandeep Singh
+1818,2008,Rajasthan Royals,M Kaif
+1819,2013,Rajasthan Royals,KK Cooper
+1820,2011,Royal Challengers Bangalore,AB de Villiers
+1821,2011,Pune Warriors,NL McCullum
+1822,2019,Delhi Capitals,H Vihari
+1823,2016,Delhi Daredevils,SS Iyer
+1824,2012,Deccan Chargers,DT Christian
+1825,2017,Royal Challengers Bangalore,AB de Villiers
+1826,2014,Chennai Super Kings,DJ Bravo
+1827,2011,Kochi Tuskers Kerala,Y Gnaneswara Rao
+1828,2013,Rajasthan Royals,AM Rahane
+1829,2013,Rajasthan Royals,SW Tait
+1830,2017,Mumbai Indians,AT Rayudu
+1831,2012,Mumbai Indians,AC Blizzard
+1832,2012,Kings XI Punjab,P Dogra
+1833,2011,Rajasthan Royals,Pankaj Singh
+1834,2019,Kolkata Knight Riders,N Naik
+1835,2010,Rajasthan Royals,S Narwal
+1836,2010,Chennai Super Kings,MS Dhoni
+1837,2011,Chennai Super Kings,S Randiv
+1838,2016,Gujarat Lions,AD Nath
+1839,2015,Kings XI Punjab,WP Saha
+1840,2009,Royal Challengers Bangalore,W Jaffer
+1841,2011,Delhi Daredevils,AB Dinda
+1842,2012,Chennai Super Kings,M Vijay
+1843,2009,Deccan Chargers,WPUJC Vaas
+1844,2016,Gujarat Lions,DW Steyn
+1845,2017,Kolkata Knight Riders,MK Pandey
+1846,2016,Kolkata Knight Riders,RV Uthappa
+1847,2019,Mumbai Indians,R Salam
+1848,2009,Kolkata Knight Riders,I Sharma
+1849,2009,Rajasthan Royals,NV Ojha
+1850,2017,Royal Challengers Bangalore,SR Watson
+1851,2011,Royal Challengers Bangalore,A Mithun
+1852,2019,Rajasthan Royals,DS Kulkarni
+1853,2011,Kings XI Punjab,L Ablish
+1854,2010,Mumbai Indians,Z Khan
+1855,2010,Kolkata Knight Riders,OA Shah
+1856,2015,Chennai Super Kings,DR Smith
+1857,2009,Kings XI Punjab,B Lee
+1858,2011,Mumbai Indians,Harbhajan Singh
+1859,2011,Deccan Chargers,PP Ojha
+1860,2018,Mumbai Indians,BCJ Cutting
+1861,2016,Royal Challengers Bangalore,Parvez Rasool
+1862,2017,Royal Challengers Bangalore,V Kohli
+1863,2012,Mumbai Indians,RP Singh
+1864,2018,Delhi Daredevils,TA Boult
+1865,2017,Kings XI Punjab,SE Marsh
+1866,2010,Kings XI Punjab,SE Marsh
+1867,2019,Royal Challengers Bangalore,K Khejroliya
+1868,2018,Chennai Super Kings,DL Chahar
+1869,2018,Chennai Super Kings,M Wood
+1870,2017,Kings XI Punjab,MJ Henry
+1871,2011,Mumbai Indians,DJ Jacobs
+1872,2014,Kings XI Punjab,V Sehwag
+1873,2009,Rajasthan Royals,PC Valthaty
+1874,2019,Mumbai Indians,Q de Kock
+1875,2012,Delhi Daredevils,Sunny Gupta
+1876,2017,Delhi Daredevils,SW Billings
+1877,2013,Mumbai Indians,JDP Oram
+1878,2018,Rajasthan Royals,RA Tripathi
+1879,2017,Gujarat Lions,KD Karthik
+1880,2011,Kings XI Punjab,Bipul Sharma
+1881,2013,Sunrisers Hyderabad,KC Sangakkara
+1882,2013,Pune Warriors,K Upadhyay
+1883,2009,Rajasthan Royals,SA Asnodkar
+1884,2008,Deccan Chargers,SB Styris
+1885,2014,Kings XI Punjab,P Awana
+1886,2012,Rajasthan Royals,SK Trivedi
+1887,2014,Delhi Daredevils,KD Karthik
+1888,2013,Kings XI Punjab,MS Gony
+1889,2015,Mumbai Indians,HH Pandya
+1890,2009,Delhi Daredevils,AB de Villiers
+1891,2008,Rajasthan Royals,SR Watson
+1892,2013,Delhi Daredevils,M Morkel
+1893,2013,Chennai Super Kings,B Laughlin
+1894,2013,Chennai Super Kings,DJ Bravo
+1895,2009,Deccan Chargers,Y Venugopal Rao
+1896,2010,Kings XI Punjab,L Ablish
+1897,2009,Delhi Daredevils,KD Karthik
+1898,2015,Mumbai Indians,Harbhajan Singh
+1899,2013,Rajasthan Royals,VS Malik
+1900,2014,Kolkata Knight Riders,UT Yadav
+1901,2018,Kings XI Punjab,Yuvraj Singh
+1902,2014,Rajasthan Royals,JP Faulkner
+1903,2012,Delhi Daredevils,DPMD Jayawardene
+1904,2013,Pune Warriors,AJ Finch
+1905,2010,Kolkata Knight Riders,SE Bond
+1906,2013,Kings XI Punjab,Bipul Sharma
+1907,2011,Mumbai Indians,AN Ahmed
+1908,2016,Sunrisers Hyderabad,DA Warner
+1909,2016,Kings XI Punjab,MP Stoinis
+1910,2016,Delhi Daredevils,MA Agarwal
+1911,2013,Sunrisers Hyderabad,DW Steyn
+1912,2015,Delhi Daredevils,JP Duminy
+1913,2011,Kolkata Knight Riders,B Lee
+1914,2017,Gujarat Lions,SB Jakati
+1915,2017,Gujarat Lions,AJ Finch
+1916,2010,Mumbai Indians,AP Tare
+1917,2018,Chennai Super Kings,L Ngidi
+1918,2019,Kolkata Knight Riders,CA Lynn
+1919,2014,Sunrisers Hyderabad,KL Rahul
+1920,2017,Sunrisers Hyderabad,S Kaul
+1921,2012,Kings XI Punjab,RJ Harris
+1922,2009,Chennai Super Kings,Joginder Sharma
+1923,2011,Kolkata Knight Riders,Shakib Al Hasan
+1924,2015,Kolkata Knight Riders,SA Yadav
+1925,2019,Chennai Super Kings,SW Billings
+1926,2009,Kings XI Punjab,S Sreesanth
+1927,2015,Delhi Daredevils,KM Jadhav
+1928,2015,Mumbai Indians,R Vinay Kumar
+1929,2011,Rajasthan Royals,PR Shah
+1930,2013,Royal Challengers Bangalore,KK Nair
+1931,2010,Kings XI Punjab,K Goel
+1932,2010,Delhi Daredevils,DL Vettori
+1933,2011,Kings XI Punjab,R McLaren
+1934,2011,Deccan Chargers,KC Sangakkara
+1935,2018,Mumbai Indians,JJ Bumrah
+1936,2016,Rising Pune Supergiants,NLTC Perera
+1937,2010,Delhi Daredevils,DP Nannes
+1938,2019,Chennai Super Kings,M Santner
+1939,2019,Kings XI Punjab,MA Agarwal
+1940,2013,Delhi Daredevils,CM Gautam
+1941,2009,Deccan Chargers,RJ Harris
+1942,2009,Kolkata Knight Riders,AN Ghosh
+1943,2010,Royal Challengers Bangalore,EJG Morgan
+1944,2010,Kolkata Knight Riders,Iqbal Abdulla
+1945,2010,Deccan Chargers,RP Singh
+1946,2014,Delhi Daredevils,S Nadeem
+1947,2008,Deccan Chargers,LPC Silva
+1948,2018,Sunrisers Hyderabad,Rashid Khan
+1949,2015,Kolkata Knight Riders,AD Russell
+1950,2012,Chennai Super Kings,JA Morkel
+1951,2013,Royal Challengers Bangalore,R Vinay Kumar
+1952,2016,Royal Challengers Bangalore,Iqbal Abdulla
+1953,2018,Chennai Super Kings,D Willey
+1954,2011,Kochi Tuskers Kerala,KM Jadhav
+1955,2018,Rajasthan Royals,SV Samson
+1956,2015,Royal Challengers Bangalore,MA Starc
+1957,2011,Kings XI Punjab,PC Valthaty
+1958,2016,Kolkata Knight Riders,UT Yadav
+1959,2012,Chennai Super Kings,VY Mahesh
+1960,2015,Mumbai Indians,RG Sharma
+1961,2010,Royal Challengers Bangalore,RE van der Merwe
+1962,2017,Kolkata Knight Riders,Kuldeep Yadav
+1963,2016,Rising Pune Supergiants,KP Pietersen
+1964,2012,Pune Warriors,SC Ganguly
+1965,2009,Deccan Chargers,A Symonds
+1966,2013,Mumbai Indians,DS Kulkarni
+1967,2008,Rajasthan Royals,AD Mascarenhas
+1968,2018,Sunrisers Hyderabad,Sandeep Sharma
+1969,2018,Mumbai Indians,KH Pandya
+1970,2010,Mumbai Indians,Harbhajan Singh
+1971,2013,Rajasthan Royals,STR Binny
+1972,2012,Delhi Daredevils,GJ Maxwell
+1973,2009,Royal Challengers Bangalore,P Kumar
+1974,2019,Sunrisers Hyderabad,KS Williamson
+1975,2019,Delhi Capitals,I Sharma
+1976,2017,Kings XI Punjab,M Vohra
+1977,2011,Chennai Super Kings,Joginder Sharma
+1978,2009,Kolkata Knight Riders,BB McCullum
+1979,2011,Chennai Super Kings,SB Jakati
+1980,2012,Mumbai Indians,SA Yadav
+1981,2015,Chennai Super Kings,MEK Hussey
+1982,2019,Mumbai Indians,BCJ Cutting
+1983,2014,Royal Challengers Bangalore,AN Ahmed
+1984,2012,Kings XI Punjab,AM Nayar
+1985,2008,Royal Challengers Bangalore,V Kohli
+1986,2010,Mumbai Indians,AM Nayar
+1987,2012,Chennai Super Kings,KMDN Kulasekara
+1988,2010,Kolkata Knight Riders,WP Saha
+1989,2013,Chennai Super Kings,MM Sharma
+1990,2009,Rajasthan Royals,AS Raut
+1991,2019,Royal Challengers Bangalore,S Hetmyer
+1992,2009,Mumbai Indians,Harbhajan Singh
+1993,2010,Deccan Chargers,RJ Harris
+1994,2011,Kings XI Punjab,DJ Hussey
+1995,2010,Royal Challengers Bangalore,R Dravid
+1996,2018,Kings XI Punjab,AJ Tye
+1997,2009,Chennai Super Kings,PA Patel
+1998,2010,Mumbai Indians,SL Malinga
+1999,2018,Mumbai Indians,Ishan Kishan
+2000,2013,Sunrisers Hyderabad,X Thalaivan Sargunam
+2001,2017,Mumbai Indians,KH Pandya
+2002,2017,Rising Pune Supergiant,AB Dinda
+2003,2010,Royal Challengers Bangalore,Pankaj Singh
+2004,2014,Royal Challengers Bangalore,RR Rossouw
+2005,2009,Kings XI Punjab,TM Srivastava
+2006,2009,Mumbai Indians,AM Nayar
+2007,2012,Kolkata Knight Riders,MS Bisla
+2008,2013,Kolkata Knight Riders,SP Narine
+2009,2012,Rajasthan Royals,A Singh
+2010,2018,Royal Challengers Bangalore,CJ Anderson
+2011,2008,Rajasthan Royals,T Kohli
